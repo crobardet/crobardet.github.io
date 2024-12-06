@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "celine.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Céline Robardet"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Dr Céline Robardet, Professor at INSA Lyon, LIRIS UMR 5205"
+  location         : "Office 502.324, Blaise Pascal Building, 20 avenue Albert Einstein, 69621 Villeurbanne cedex"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
