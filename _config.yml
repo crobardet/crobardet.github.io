@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=celine+robardet"
   DBLP             : "https://dblp.org/pid/r/CRobardet.html"
-  scopus           : # URL
+  scopus           : "https://dblp.org/pid/r/CRobardet.html" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
