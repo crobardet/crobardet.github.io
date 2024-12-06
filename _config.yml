@@ -31,10 +31,10 @@ author:
   email            : "celine[dot]robardet[at]insa-lyon.fr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Robardet,+C"
+  googlescholar    : "https://scholar.google.fr/citations?user=0l9QDl0AAAAJ&hl=fr"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8583-9408"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
