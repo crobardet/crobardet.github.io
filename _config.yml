@@ -222,7 +222,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -278,8 +278,8 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: Projects
-      author_profile: true
+      layout: talks
+      author_profile: false
       share: true
 
 
