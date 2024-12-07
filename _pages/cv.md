@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* Habilitation (HDR) in Data Mining for graph analysis, INSA Lyon, 2013.
 * Ph.D in co-clustering, University Claude
 Bernard Lyon 1, advisor: Nicolas Nicoloyannis, 2002.
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
 
 Work experience
 ======
