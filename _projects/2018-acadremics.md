@@ -2,13 +2,13 @@
 title: "Academics (2018-2021)"
 collection: project
 type: "Scientific breakthrough of IDEX Lyon"
-permalink: "https://anr.fr/Projet-ANR-22-CE23-0006"
+permalink: "http://www.ixxi.fr/equipes/projet-ACADEMICS"
 venue: "Scientific breakthrough of IDEX Lyon"
 date: 2018-09-01
 location: "City, Country"
 ---
 
-<p>The project <b>mAChine LeArning & Data sciEnce for coMplex and dynamICal modelS</b> (ACADEMICS) aimed to combine Machine Learning (ML) and Data Science (DS) to advance scientific research in two key directions:</p>
+<p>The project <a href="http://www.ixxi.fr/equipes/projet-ACADEMICS">mAChine LeArning & Data sciEnce for coMplex and dynamICal modelS</a> (ACADEMICS) aimed to combine Machine Learning (ML) and Data Science (DS) to advance scientific research in two key directions:</p>
 <ul>
     <li>Computing and Information Processing: Developing new theoretical frameworks and learning algorithms tailored for complex scientific challenges involving heterogeneous, irregular, error-prone, dynamic, and intricate datasets, while incorporating relevant prior knowledge.
     </li>
