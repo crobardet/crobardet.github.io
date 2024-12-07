@@ -25,7 +25,8 @@ Research Program
 </li><li>  Estimation and Learning from Multi-Source and/or Dynamic Data: Transferring models learned from a source dataset to a related but different target dataset and learning from multi-source complex data.
 </li><li>    Distributed and Adaptive ML for Graphs and Complex Models: Designing distributed, optimization-based learning techniques and adaptive, distributed model inference in high-dimensional spaces.
 </li>
-  
+</ul>
+
 In climate modeling, the primary question was how to learn effective dynamic models, first using nonparametric ML tools, and second, by combining data from observations and simulations.
 In computational social sciences, the project explored how to integrate individual features with the structure and dynamics of social networks for better inference of latent correlations, identification of behavioral mechanisms, and modeling of emergent social phenomena.
 
