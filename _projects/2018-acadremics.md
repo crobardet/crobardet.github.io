@@ -45,19 +45,23 @@ In total, the consortium involved 20 investigators, including the lead scientist
 Project Actions
 
 The project's key actions included:
-
-    Achieving the scientific research program and disseminating its results through publications and conferences.
-    Enhancing UdL’s international visibility in ML research, a driving force behind the renewal and successes of Artificial Intelligence.
-    Supporting academic training in ML and DS at the Master and Ph.D. levels at UdL.
+=====
+<ol>
+    <li>Achieving the scientific research program and disseminating its results through publications and conferences.
+    </li><li>Enhancing UdL’s international visibility in ML research, a driving force behind the renewal and successes of Artificial Intelligence.
+    </li><li>Supporting academic training in ML and DS at the Master and Ph.D. levels at UdL.
+    </li></ol>
 
 Impacts and Future Applications
+=====
 
 The project's impacts included developing efficient methods for learning from complex and dynamic data, with applications across multiple domains, such as:
-
-    Technological networks,
-    Social sciences and the study of social interactions,
-    Climate and environmental sciences,
-    Neuroscience and the study of brain networks.
+<ul>
+    <li>Technological networks,
+    </li><li>Social sciences and the study of social interactions,
+    </li><li>Climate and environmental sciences,
+    </li><li>Neuroscience and the study of brain networks.
+    </li></ul>
 
 These efforts pushed beyond classical ML applications (time series, 2D images, or text) to achieve a significant scientific breakthrough in learning dynamic models of complex systems.
 
