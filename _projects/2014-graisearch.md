@@ -1,23 +1,24 @@
 ---
 title: "GRAISearch (2014-2018)"
 collection: project
-type: "ANR PRCE with Humans Matter"
-permalink: "https://anr.fr/Projet-ANR-22-CE23-0006"
-venue: "ANR PRCE with Humans Matter"
+type: "European project -- call FP7-PEOPLE-2013-IAPP"
+permalink: "https://cordis.europa.eu/project/id/612334/reporting/it"
+venue: "European project -- call FP7-PEOPLE-2013-IAPP"
 date: 2022-09-01
 location: "City, Country"
 ---
 
-<p>The <a href="https://anr.fr/Projet-ANR-22-CE23-0006"> project PORTRAIT </a> is to develop an adaptive testing method that adjusts the questions of a test based on the subject's previous responses. To achieve this, the project aims to extend recent advancements in recommendation systems and reinforcement learning methods to adapt tests dynamically.</p>
+GRAISearch
+=====
+https://cordis.europa.eu/project/id/612334/reporting/it
 
-<p>The project’s case study focuses on psychiatric tests, which represent a significant public health challenge. These tests currently incur high costs, but the approach developed within the project aims to reduce these costs while maintaining their reliability. A key challenge for adaptive testing is optimizing its administration to evaluate multiple psychiatric dimensions in a short period of time.</p>
+Use of Graphics Rendering and Artificial Intelligence for Improved Mobile Search Capabilities
 
-The project pursues three main objectives:
-<ul>
-  <il> Develop a reinforcement learning algorithm trained on data collected during psychiatric testing. This algorithm will determine, after each patient response, the next question or cognitive test to administer based on previous responses, aiming to reduce testing time.</il>
+GRAISearch is an Industry-Academia Partnerships and Pathways project (IAPP) aiming at transferring knowledge from Academia to Industries. It is also a support for training and career development of researchers (Marie Curie).
 
-<li> Evaluate this method using real psychiatric data, with validation by psychiatrists. Simpler approaches will also be implemented for comparison.</li>
+The principal aim of this project is to develop and apply revolutionary graphics rendering and artificial intelligence (AI) methods to an existing social media search engine platform thereby creating ground breaking mobile search capabilities with significant online commercial potential.
 
-<li> Provide interpretability of the results to explain and justify a patient’s evaluation on psychiatric dimensions. The system must justify unanswered questions based on answered ones and the statistics obtained during the model's training phase.</li>
-</ul>
+Technologies from research in two academic institutions (INSA de Lyon (LIRIS UMR CNRS 5205) and Trinity College Dublin (TCD)), will be transfered into the products of Tapastreet LTD, the Dublin based Web startup. 
+
+
 
