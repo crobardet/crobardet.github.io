@@ -8,12 +8,8 @@ date: 2015-09-01
 location: "City, Country"
 ---
 
-<p>The primary scientific goal of the <a href="https://imu.msh-lse.fr/projet/resali-reseaux-et-systeme-alimentaire-systemes-dinformation-innovants-et-exploratoires-pour-plus-de-justice-alimentaire-dans-les-metropoles/)">RESALI</a> 
- is to study the food networks and system. </p>
-
-Feeding cities, particularly large urban agglomerations, both in quantity and quality, represents a significant challenge for the future of urban environments, especially in the context of sustainability and food justice.  
-
-At the scale of urban food systems, there is a need for diagnostics to systematically understand the relationships between consumption hubs, food supply, and dietary behaviors. The RESALI project aims to test methods and tools for a detailed analysis of the organization of urban food systems, exploring the connections and disconnections between food supply and demand—essentially, between food resources and certain consumption basins, including the most marginalized and least informed populations.  
+The primary scientific goal of the <a href="https://imu.msh-lse.fr/projet/resali-reseaux-et-systeme-alimentaire-systemes-dinformation-innovants-et-exploratoires-pour-plus-de-justice-alimentaire-dans-les-metropoles/)">RESALI</a> 
+ is to study the food networks and system. Feeding cities, particularly large urban agglomerations, both in quantity and quality, represents a significant challenge for the future of urban environments, especially in the context of sustainability and food justice. At the scale of urban food systems, there is a need for diagnostics to systematically understand the relationships between consumption hubs, food supply, and dietary behaviors. The RESALI project aims to test methods and tools for a detailed analysis of the organization of urban food systems, exploring the connections and disconnections between food supply and demand—essentially, between food resources and certain consumption basins, including the most marginalized and least informed populations.  
 
 The project brings together geographers, computer scientists, and practitioners involved in Lyon's food systems to develop an innovative information system for the Lyon-St-Etienne metropolitan area. This system will integrate structural data (such as census and commerce data) and large-scale individual data, including consumption data and VGI (Volunteered Geographic Information) from user-generated Web 2.0 content.  
 
