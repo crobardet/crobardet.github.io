@@ -1,7 +1,7 @@
 ---
 title: "Portrait (2022-2026)"
 collection: project
-type: "ANR PRCE with Humans Matter"
+type: "ANR PRCE"
 permalink: "https://anr.fr/Projet-ANR-22-CE23-0006"
 venue: "ANR PRCE with Humans Matter"
 date: 2022-09-01
