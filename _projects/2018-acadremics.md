@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "City, Country"
 ---
 
-<p>The project <a href="http://www.ixxi.fr/equipes/projet-ACADEMICS">mAChine LeArning & Data sciEnce for coMplex and dynamICal modelS</a> (ACADEMICS) aimed to combine Machine Learning (ML) and Data Science (DS) to advance scientific research in two key directions:</p>
+<p>The project <a href="http://www.ixxi.fr/equipes/projet-ACADEMICS">ACADEMICS</a> (mAChine LeArning & Data sciEnce for coMplex and dynamICal modelS) aimed to combine Machine Learning (ML) and Data Science (DS) to advance scientific research in two key directions:</p>
 <ul>
     <li>Computing and Information Processing: Developing new theoretical frameworks and learning algorithms tailored for complex scientific challenges involving heterogeneous, irregular, error-prone, dynamic, and intricate datasets, while incorporating relevant prior knowledge.
     </li>
