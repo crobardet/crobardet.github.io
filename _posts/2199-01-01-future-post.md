@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Wait4: Welfare, Artificial Intelligence and new Technologies for Tracking key indicator Traits in animals facing challenges of the agroecological Transition'
+date: 2022-2027
+permalink: "https://anr.fr/ProjetIA-22-PEAE-0008"
 tags:
   - cool posts
   - category1
