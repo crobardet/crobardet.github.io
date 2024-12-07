@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p><b></b> <i>{{ post.venue }}</i> </p>
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>  {{ "Project typeA:" }}</strong> {{ post.type | default: "local call project" }}</p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>  {{ "Project type:" }}</strong> {{ post.type | default: "local call project" }}</p>
         {% endif %}
     
     {% if post.excerpt and site.read_more != 'enabled' %}
