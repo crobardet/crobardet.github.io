@@ -1,6 +1,6 @@
 ---
 title: 'Wait4: Welfare, Artificial Intelligence and new Technologies for Tracking key indicator Traits in animals facing challenges of the agroecological Transition'
-date: #2022-2027
+date: 2022-11-11
 permalink: "https://anr.fr/ProjetIA-22-PEAE-0008"
 tags:
   - cool posts
