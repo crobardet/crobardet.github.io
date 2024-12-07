@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
+title: "Portrait (2022-2025)"
+collection: project
+type: "ANR PRCE with Humans Matter"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
