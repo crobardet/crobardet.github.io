@@ -18,11 +18,7 @@ Organisation & Invited Talks
 <li> Program Co-Chair of ECMLPKDD 2019, Würzburg, Germany.</li>
 <li>Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
 <li>Tutorials chair for ECMLPKDD 2014, Nancy France.</li>
-  
-  Tutorial Chair of SIAM SDM 2017, Houston, USA.
-Program Co-Chair of ECML PKDD 2016, Riva del Garda, Italy.
-[IDEA at KDD 2017]
-Organiser of the CECAM Workshop AI for Materials Science, June 2021, online.</li>
+ <li> Program Co-Chair for IDA 2009, Lyon France.</li> 
 </ul>
 
 
