@@ -1,11 +1,10 @@
 ---
-title: "Scientific collaborations"
-collection: project
-type: "International"
-permalink: ""
-venue: ""
-date: 2024-12-08
-location: ""
+permalink: /
+title: "Scientific Collaborations"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /collaboration.html
 ---
 
 **International scientific collaborations**
