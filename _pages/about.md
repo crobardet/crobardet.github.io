@@ -15,6 +15,7 @@ Organisation & Invited Talks
 ======
 
 <ul>
+<li> Lecturer at Autumn Institute in Artificial Intelligence (IA2), organized by the GDR IA, october 2022.</li>
 <li> Program Co-Chair of ECMLPKDD 2019, Würzburg, Germany.</li>
 <li>Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
 <li>Tutorials chair for ECMLPKDD 2014, Nancy France.</li>
