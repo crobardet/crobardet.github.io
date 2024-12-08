@@ -85,7 +85,7 @@ Advising
 * Ruggero Pensa(2003--2006). Title: Co-clustering under constraints. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
     
 **Collaboration**
-* Martin Atzmuelle
+* Martin Atzmueller
 
-Awards
+
 =====
