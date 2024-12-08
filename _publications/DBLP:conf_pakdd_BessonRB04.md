@@ -1,10 +1,10 @@
 ---
 title: "Constraint-Based Mining of Formal Concepts in Transactional Data"
 date: 2004-01-01
-venue: 'Advances in Knowledge Discovery and Data Mining, 8th Pacific-Asia Conference, {PAKDD} 2004, Sydney, Australia, May 26-28, 2004, Proceedings'
+venue: 'Pacific-Asia Knowledge Discovery and Data Mining Conference, PAKDD'
 category: conferences
 collection: publications
 paperurl: https://doi.org/10.1007/978-3-540-24775-3\_73
 permalink: 
-citation: Advances in Knowledge Discovery and Data Mining, 8th Pacific-Asia Conference, PAKDD 2004, Sydney, Australia, May 26-28, 2004, Proceedings.
+citation: Pacific-Asia Knowledge Discovery and Data Mining Conference, PAKDD.
 ---

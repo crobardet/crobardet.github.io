@@ -1,10 +1,10 @@
 ---
 title: "A New Methodology to Compare Clustering Algorithms"
 date: 2000-01-01
-venue: 'Intelligent Data Engineering and Automated Learning - {IDEAL} 2000, Data Mining, Financial Engineering, and Intelligent Agents, Second International Conference, Shatin, {N.T.} Hong Kong, China, December 13-15, 2000, Proceedings'
+venue: 'Intelligent Data Engineering and Automated Learning - IDEAL'
 category: conferences
 collection: publications
 paperurl: https://doi.org/10.1007/3-540-44491-2\_82
 permalink: 
-citation: Intelligent Data Engineering and Automated Learning - IDEAL 2000, Data Mining, Financial Engineering, and Intelligent Agents, Second International Conference, Shatin, N.T. Hong Kong, China, December 13-15, 2000, Proceedings.
+citation: Intelligent Data Engineering and Automated Learning - IDEAL.
 ---
