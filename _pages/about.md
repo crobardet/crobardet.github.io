@@ -30,7 +30,10 @@ Organisation & Invited Talks
 
 Grants
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Deputy-PI of Wait4 PEPR project (INRAE, INRIA, CEA, INSA, AgroParisTech) (2022–2027)
+PI of Improving psychiatric screening with artificial intelligence (INSA Lyon, Humans Matter) (2022-2026)
+
+Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
@@ -39,8 +42,8 @@ Grants
 
 Editorial Board Memberships
 =====
-    Data Mining and Knowledge Discovery (DAMI) since '15.
-    Knowledge and Information Systems (KAIS) since '20.
+* Data Mining and Knowledge Discovery (DAMI) since '15.
+* Knowledge and Information Systems (KAIS) since '20.
 
 Program Committees
 =====
