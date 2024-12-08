@@ -30,9 +30,9 @@ Organisation & Invited Talks
 
 Grants
 ======
-* PI of Improving psychiatric screening with artificial intelligence (INSA Lyon, Humans Matter) (2022-2026)
-* 
-1. Deputy-PI of Wait4, PEPR project (INRAE, INRIA, CEA, INSA, AgroParisTech) (2022–2027)
+* PI of PORTRAIT ANR project (INSA Lyon, Humans Matter) (2022-2026)
+* Deputy-PI of Wait4, PEPR project (INRAE, INRIA, CEA, INSA, AgroParisTech) (2022–2027)
+* PI of Academics Scientific breakthrough of IDEX Lyon project (ENS Lyon, INSA Lyon, Université Jean Monnet) (2018-2021)
 
 
 
