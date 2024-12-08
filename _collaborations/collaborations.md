@@ -17,7 +17,7 @@ location: ""
 * Ruggero Pensa
 * Annalisa Appice
 * Giuseppina Andresini
-
+  
 
 **National scientific collaborations**
 * Moustafa Bensafi
@@ -27,3 +27,5 @@ location: ""
 * Peggy Cellier
 * Marc Plantevit
 * Julien Perez
+* Rémy Cazabet
+* Idir Benouaret
