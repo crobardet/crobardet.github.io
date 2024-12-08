@@ -4,6 +4,7 @@ date: 2006-01-01
 venue: 'Intell. Data Anal.'
 category: articles
 collection: publications
-permalink: http://content.iospress.com/articles/intelligent-data-analysis/ida00261
+paperurl: http://content.iospress.com/articles/intelligent-data-analysis/ida00261
+permalink: 
 citation: Intell. Data Anal.. 10(5).
 ---
