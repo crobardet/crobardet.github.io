@@ -4,6 +4,7 @@ date: 2002-01-01
 venue: 'Rev. d'Intelligence Artif.'
 category: articles
 collection: publications
-permalink: https://doi.org/10.3166/ria.16.705-728
+paperurl: https://doi.org/10.3166/ria.16.705-728
+permalink: 
 citation: Rev. d'Intelligence Artif.. 16(6).
 ---

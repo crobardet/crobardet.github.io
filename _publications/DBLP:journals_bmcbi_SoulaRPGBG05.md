@@ -4,6 +4,7 @@ date: 2005-01-01
 venue: '{BMC} Bioinform.'
 category: articles
 collection: publications
-permalink: https://doi.org/10.1186/1471-2105-6-228
+paperurl: https://doi.org/10.1186/1471-2105-6-228
+permalink: 
 citation: BMC Bioinform.. 6
 ---
