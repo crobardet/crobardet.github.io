@@ -42,8 +42,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
+**Service and leadership**
 * Head of the Data Mining & Machine Learning (DM2L) Team at LIRIS since 2012.
 * Member of the Scientific Council of LIRIS lab since 2012.
 * Member of 3 HCERES Evaluation Committees.
