@@ -27,8 +27,6 @@ Bernard Lyon 1, advisor: Nicolas Nicoloyannis, 2002.
 * 2001--2002. Teaching Assistant (ATER) at INSA Lyon.
 
 
-  
-
 
 Publications
 ======
@@ -46,4 +44,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Head of the Data Mining & Machine Learning (DM2L) Team at LIRIS since 2012.
+* Member of 3 HCERES Evaluation Committees.
+* Member of 38 PhD thesis and HDR juries.
