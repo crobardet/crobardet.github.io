@@ -17,7 +17,7 @@ Bernard Lyon 1, advisor: Nicolas Nicoloyannis, 2002.
 
 **Work experience**
 
-* 2022. Visiting Professor at the University of Bari ”Aldo Moro,” Italy (2 months) in the team led by Donato Malerba.
+* Visiting Professor at the University of Bari ”Aldo Moro,” Italy (2 months) in the team led by Donato Malerba.
 * 2020-- Full Professor (1st class) (CNU).
 * 2014-- Full Professor at INSA Lyon, Department of Industrial Engineering, affiliated within LIRIS laboratory, CNRS, UMR 5205.
 * 2008--2009. INRIA Delegate in the D-NET team led by Eric Fleury.
