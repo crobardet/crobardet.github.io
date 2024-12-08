@@ -9,5 +9,11 @@ location: ""
 ---
 
 **International scientific collaborations**
+* Martin Atzmueller
+* Jefrey Lijffijt
+* Tijl De Bie
+* Jilles Vreeken
+* Tias Guns
+
 
 **National scientific collaborations**
