@@ -54,6 +54,12 @@ Program Committees
 Advising
 =====
 
+**Postdoctoral Researchers**
+
+* Alessio
+* Anes
+* Adriana
+  
 **Doctoral Researchers**
 
 * Elouan Vincent (2024--). Subject: Self-supervised learning on heterogeneous graphs with optimal transport: contribution to the analysis of animal behaviors and social dynamics. Co-supervised with Marc Plantevit. Funding: PEPR WAIT4.
