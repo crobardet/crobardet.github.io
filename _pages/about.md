@@ -57,20 +57,20 @@ Advising
 **Doctoral Researchers**
 
 * Elouan Vincent (2024--). Subject: Self-supervised learning on heterogeneous graphs with optimal transport: contribution to the analysis of animal behaviors and social dynamics. Co-supervised with Marc Plantevit. Funding: PEPR WAIT4.
-* Ata Kamal (2022--). Subject: interpretable deep neural networks. Co-supervised with Marc Plantevit.
+* Ata Kamal (2022--). Subject: Interpretable deep neural networks. Co-supervised with Marc Plantevit.
 * Arthur Batel (2022--). Subject: Improving the screening of psychiatric disorders using artificial intelligence. Co-supervised with Marc Plantevit. Funding: ANR PORTRAIT.
 
  
 **Past Ph.D students**
   
-* Rafael Ramos Tubino (2019--2023). Subject: Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies. Co-supervised with Rémy Cazabet. Funding: ANR JCJC BITUNAM.
-* Timothée Chane-Hai (2020--2023). Subject: Guidage des métaheuristiques par machine-learning. Co-supervised with Thibaud Monteiro and Samuel Vercraene.
-* Léonard Tschora (2020--2024). Subject: Machine Learning Techniques for electricity prices forecasting. Co-supervised with Marc Plantevit.
-* Luca Veyrin-Forrer (2019--2023). Subject: Machine Learning meets Data Mining: Towards sparse and interpretable deep neural networks. Co-supervised with Marc Plantevit and Stefan Duffner. Funding: IDEXLYON Academics project.
-* Mohamed Benabdelkrim (2017--2021) Subject: Development of new algorithms for detecting communities in heterogeneous information networks. Co-supervised with Jean Savinien. Funding: emlyon Business School.
-* Corentin Lonjarret (2018--2021). Subject: Data mining methods for the analysis of social networks and opinions. Co-supervised with Marc Plantevit. Funding: CIFRE VISIATIV.
-* Louis Duvivier (2018--2021). Subject: Automatic detection of the structure of interactions within complex systems by modeling and compression of graphs. Co-supervised with Rémy Cazabet. Funding: ENS scholarship.
-* Mohamed Ali Hammal (2016--2020). Subject: Analysis of territorial systems and food networks using data mining and cartographic representation approaches. Co-supervised with Luc Merchez. Funding: Labex IMU, RESALI project.
+* Rafael Ramos Tubino (2019--2023). Title: Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies. Co-supervised with Rémy Cazabet. Funding: ANR JCJC BITUNAM.
+* Timothée Chane-Hai (2020--2023). Title: Machine learning guidance for metaheuristics. Co-supervised with Thibaud Monteiro and Samuel Vercraene.
+* Léonard Tschora (2020--2024). Title: Machine Learning Techniques for electricity prices forecasting. Co-supervised with Marc Plantevit.
+* Luca Veyrin-Forrer (2019--2023). Title: Machine Learning meets Data Mining: Towards sparse and interpretable deep neural networks. Co-supervised with Marc Plantevit and Stefan Duffner. Funding: IDEXLYON Academics project.
+* Mohamed Benabdelkrim (2017--2021) Title: Development of new algorithms for detecting communities in heterogeneous information networks. Co-supervised with Jean Savinien. Funding: emlyon Business School.
+* Corentin Lonjarret (2018--2021). Title: Data mining methods for the analysis of social networks and opinions. Co-supervised with Marc Plantevit. Funding: CIFRE VISIATIV.
+* Louis Duvivier (2018--2021). Title: Automatic detection of the structure of interactions within complex systems by modeling and compression of graphs. Co-supervised with Rémy Cazabet. Funding: ENS scholarship.
+* Mohamed Ali Hammal (2016--2020). Title: Analysis of territorial systems and food networks using data mining and cartographic representation approaches. Co-supervised with Luc Merchez. Funding: Labex IMU, RESALI project.
 * Aimene Belfodil. Title An Order Theoretic Point-of-view on Subgroup Discovery. Defended September 30, 2019. Co-supervised with Mehdi Kaytoue. Funding: CIFRE Mobile devices.
 * Ahmed Anes Bendimerad. Title : Mining Useful Patterns in Attributed Graphs. Defended September 5, 2019. Co-supervised with Marc Plantevit. Funding: research agreement with Thales R & D. <b>Thesis award, EGC 2020.</b>
 * Ronan Hamon. Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Defended September 30, 2015. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
