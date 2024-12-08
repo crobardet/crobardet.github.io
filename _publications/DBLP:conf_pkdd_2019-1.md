@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning and Knowledge Discovery in Databases - ECML PKDD"
+title: "Proceedings of Machine Learning and Knowledge Discovery in Databases - ECML PKDD"
 date: 2020-01-01
 venue: 'Machine Learning and Knowledge Discovery in Databases - ECML PKDD'
 category: books
