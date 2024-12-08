@@ -40,8 +40,8 @@ Grants
 
 Editorial Board Memberships
 =====
-* Data Mining and Knowledge Discovery (DAMI) since '15.
-* Knowledge and Information Systems (KAIS) since '20.
+* <a href="https://link.springer.com/journal/10618/editorial-board">Data Mining and Knowledge Discovery (DAMI)</a> since 2022.
+* Knowledge and Information Systems (KAIS) 2020 -- 2024.
 
 Program Committees
 =====
