@@ -50,14 +50,16 @@ Program Committees
 * IEEE International Conference on Data Mining, IEEE ICDM, 2008–2015, area Chair 2016–2018.
 * SIAM Data Mining, SDM, 2010–2011, area Chair 2012–2018.
 * European Machine Learning and Data Mining Conference, ECMLPKDD, 2006–2018, area Chair 2020–2024.
+* Intelligent Data Analysis, IDA, 2007--2010, area chair 2023-2025.
+* European Conference on Artificial Intelligence, ECAI, 2023-2024.
   
 Advising
 =====
 
 **Postdoctoral Researchers**
 
-* Alessio Ragno (2024--), project WAIT4
-* Anes Bendimerad (2019--2020), project Academics
+* Alessio Ragno (2024--), PEPR WAIT4
+* Anes Bendimerad (2019--2020), IDEX Lyon Academics
 * Adriana Prado (2011--2012), ANR BINGO2.
   
 **Doctoral Researchers**
