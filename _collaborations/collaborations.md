@@ -14,6 +14,9 @@ location: ""
 * Tijl De Bie
 * Jilles Vreeken
 * Tias Guns
+* Ruggero Pensa
+* Annalisa Appice
+* Giuseppina Andresini
 
 
 **National scientific collaborations**
