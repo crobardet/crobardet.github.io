@@ -20,7 +20,7 @@ Organisation & Invited Talks
 <li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
 <li>Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
 <li>Tutorials chair for ECMLPKDD 2014, Nancy France.</li>
-<li> Lecturer at the International Summer School Resource-aware Machine Learning at Technische Universität Dortmund, Germany, September 29, 2014</li>
+<li> Lecturer at the <a href="https://sfb876.tu-dortmund.de/SummerSchool2014">International Summer School Resource-aware Machine Learning</a> at Technische Universität Dortmund, Germany, September 29, 2014</li>
  <li> Program Co-Chair for IDA 2009, Lyon France.</li> 
 </ul>
 
