@@ -1,10 +1,13 @@
 ---
-permalink: /
-title: "Scientific Collaborations"
+layout: archive
+title: "Collaborations"
+permalink: /collaborations/
 author_profile: true
-redirect_from: 
-  - /collaboration.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 **International scientific collaborations**
 * Martin Atzmueller
