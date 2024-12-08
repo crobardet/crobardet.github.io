@@ -17,11 +17,11 @@ Bernard Lyon 1, advisor: Nicolas Nicoloyannis, 2002.
 
 **Work experience**
 
-* Visiting Professor at the University of Bari ”Aldo Moro,” Italy (2 months) in the team led by Donato Malerba.
+* 2022* Visiting Professor at the University of Bari ”Aldo Moro,” Italy (2 months) in the team led by Donato Malerba.
 * 2020-- Full Professor (1st class) (CNU).
 * 2014-- Full Professor at INSA Lyon, Department of Industrial Engineering, affiliated within LIRIS laboratory, CNRS, UMR 5205.
 * 2008--2009. INRIA Delegate in the D-NET team led by Eric Fleury.
-* 2008. Visiting associate professor at the University of Antwerp, Belgium (6 months) in the ADReM team working with Bart Goethals.
+* 2008* Visiting associate professor at the University of Antwerp, Belgium (6 months) in the ADReM team working with Bart Goethals.
 * 2003--2014. Associate Professor at INSA Lyon, Departments of Computer Science and propaedeutic cycle.
 * 2002--2003. Post-Doc funded by INRIA Rhône-Alpes at the Center for Molecular and Cellular Genetics, UCBL (CNRS, UMR 5534).
 * 2001--2002. Teaching Assistant (ATER) at INSA Lyon.
