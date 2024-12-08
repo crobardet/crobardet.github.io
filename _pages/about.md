@@ -15,6 +15,7 @@ Organisation & Invited Talks
 ======
 
 <ul>
+<li> Co-Organiser of the MaDICS workshop EXMIA, 2025.</li>
 <li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
 <li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
 <li>Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
