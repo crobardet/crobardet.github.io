@@ -67,14 +67,14 @@ Advising
 * Timothée Chane-Hai (2020--2023). Title: Machine learning guidance for metaheuristics. Co-supervised with Thibaud Monteiro and Samuel Vercraene.
 * Léonard Tschora (2020--2024). Title: Machine Learning Techniques for electricity prices forecasting. Co-supervised with Marc Plantevit.
 * Luca Veyrin-Forrer (2019--2023). Title: Machine Learning meets Data Mining: Towards sparse and interpretable deep neural networks. Co-supervised with Marc Plantevit and Stefan Duffner. Funding: IDEXLYON Academics project.
-* Mohamed Benabdelkrim (2017--2021) Title: Development of new algorithms for detecting communities in heterogeneous information networks. Co-supervised with Jean Savinien. Funding: emlyon Business School.
+* Mohamed Benabdelkrim (2017--2021). Title: Development of new algorithms for detecting communities in heterogeneous information networks. Co-supervised with Jean Savinien. Funding: emlyon Business School.
 * Corentin Lonjarret (2018--2021). Title: Data mining methods for the analysis of social networks and opinions. Co-supervised with Marc Plantevit. Funding: CIFRE VISIATIV.
 * Louis Duvivier (2018--2021). Title: Automatic detection of the structure of interactions within complex systems by modeling and compression of graphs. Co-supervised with Rémy Cazabet. Funding: ENS scholarship.
 * Mohamed Ali Hammal (2016--2020). Title: Analysis of territorial systems and food networks using data mining and cartographic representation approaches. Co-supervised with Luc Merchez. Funding: Labex IMU, RESALI project.
-* Aimene Belfodil. Title An Order Theoretic Point-of-view on Subgroup Discovery. Defended September 30, 2019. Co-supervised with Mehdi Kaytoue. Funding: CIFRE Mobile devices.
-* Ahmed Anes Bendimerad. Title : Mining Useful Patterns in Attributed Graphs. Defended September 5, 2019. Co-supervised with Marc Plantevit. Funding: research agreement with Thales R & D. <b>Thesis award, EGC 2020.</b>
-* Ronan Hamon. Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Defended September 30, 2015. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
-* Ruggero Pensa. Title: Co-clustering under constraints. Defended November 21, 2006. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
+* Aimene Belfodil (2016--2019). Title An Order Theoretic Point-of-view on Subgroup Discovery. Co-supervised with Mehdi Kaytoue. Funding: CIFRE Mobile devices.
+* Ahmed Anes Bendimerad (2016--2019). Title : Mining Useful Patterns in Attributed Graphs. Co-supervised with Marc Plantevit. Funding: research agreement with Thales R & D. <b>Thesis award, EGC 2020.</b>
+* Ronan Hamon (2012--2015). Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
+* Ruggero Pensa(2003--2006). Title: Co-clustering under constraints. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
     
     
     
