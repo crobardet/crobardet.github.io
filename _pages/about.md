@@ -73,9 +73,9 @@ Past Ph.D students
 * Louis Duvivier (2018--2021). Subject: Automatic detection of the structure of interactions within complex systems by modeling and compression of graphs. Co-supervised with Rémy Cazabet. Funding: ENS scholarship.
 * Mohamed Ali Hammal (2016--2020). Subject: Analysis of territorial systems and food networks using data mining and cartographic representation approaches. Co-supervised with Luc Merchez. Funding: Labex IMU, RESALI project.
 * Aimene Belfodil co-supervised with Mehdi Kaytoue. Title An Order Theoretic Point-of-view on Subgroup Discovery. Defended September 30, 2019. Reviewers Bruno Crémilleux - université de Caen et Bernhard Ganter - Technische Universitaet Dresden. Funding: CIFRE Mobile devices.
-* Ahmed Anes Bendimerad co-supervised with Marc Plantevit. Title : Mining Useful Patterns in Attributed Graphs. Defended September 5, 2019. Reviwers: Aristides Gionis - Aalto University et Marie-Christine Rousset - université Grenoble Alpes. Funding: research agreement with Thales R & D. Thesis award, EGC 2020.
-* Ronan Hamon co-supervised with Patrick Flandrin and Pierre Borgnat. Title: Analyse de réseaux temporels par des méthodes de traitement du signal : application au systÃ¨me de vélos en libre-service Ã  Lyon. Defended September 30, 2015. Funding: regional scholarship (ARC 5 et ARC 6). Thesis award from Abertis chair 2016.
-* Ruggero Pensa co-supervised with Jean-FranÃ§ois Boulicaut. Title: Co-clustering under constraints. Defended November 21, 2006. Reviewers Céline Rouveirol - université Paris 13 and Bruno Crémilleux - université de Caen. Funding: ministerial scholarship.
+* Ahmed Anes Bendimerad. Title : Mining Useful Patterns in Attributed Graphs. Defended September 5, 2019. Co-supervised with Marc Plantevit. Funding: research agreement with Thales R & D. <b>Thesis award, EGC 2020.</b>
+* Ronan Hamon. Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Defended September 30, 2015. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
+* Ruggero Pensa. Title: Co-clustering under constraints. Defended November 21, 2006. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
     
     
     
