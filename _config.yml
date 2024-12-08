@@ -218,6 +218,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  collaborations:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
