@@ -54,9 +54,15 @@ Program Committees
 Advising
 =====
 
+Doctoral Researchers
+-----
 * Elouan Vincent (2024--). Subject: Self-supervised learning on heterogeneous graphs with optimal transport: contribution to the analysis of animal behaviors and social dynamics. Co-supervised with Marc Plantevit. Funding: PEPR WAIT4.
 * Ata Kamal (2022--). Subject: interpretable deep neural networks. Co-supervised with Marc Plantevit.
 * Arthur Batel (2022--). Subject: Improving the screening of psychiatric disorders using artificial intelligence. Co-supervised with Marc Plantevit. Funding: ANR PORTRAIT.
+
+ 
+Past Ph.D students
+  -----
   
 * Rafael Ramos Tubino (2019--2023). Subject: Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies. Co-supervised with Rémy Cazabet. Funding: ANR JCJC BITUNAM.
 * Timothée Chane-Hai (2020--2023). Subject: Guidage des métaheuristiques par machine-learning. Co-supervised with Thibaud Monteiro and Samuel Vercraene.
