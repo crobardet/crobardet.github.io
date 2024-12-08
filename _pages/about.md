@@ -56,9 +56,9 @@ Advising
 
 **Postdoctoral Researchers**
 
-* Alessio
-* Anes
-* Adriana
+* Alessio Ragno (2024--), project WAIT4
+* Anes Bendimerad (2019--2020), project Academics
+* Adriana Prado (2011--2012), ANR BINGO2.
   
 **Doctoral Researchers**
 
@@ -82,17 +82,8 @@ Advising
 * Ronan Hamon (2012--2015). Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
 * Ruggero Pensa(2003--2006). Title: Co-clustering under constraints. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
     
-    
-    
-    
-    
-    
-    
-    
-  
-   
-    
-
+**Collaboration**
+* Martin Atzmuelle
 
 Awards
 =====
