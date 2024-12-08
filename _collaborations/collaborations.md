@@ -3,7 +3,6 @@ permalink: /
 title: "Scientific Collaborations"
 author_profile: true
 redirect_from: 
-  - /about/
   - /collaboration.html
 ---
 
