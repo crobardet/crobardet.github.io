@@ -1,5 +1,5 @@
 ---
-title: "Qu'est-ce que mon {GNN} capture vraiment ? Exploration des représentations internes d'un {GNN}"
+title: "Qu'est-ce que mon GNN capture vraiment ? Exploration des représentations internes d'un GNN"
 date: 2022-01-01
 venue: 'Extraction et Gestion des Connaissances, EGC'
 category: conferences
