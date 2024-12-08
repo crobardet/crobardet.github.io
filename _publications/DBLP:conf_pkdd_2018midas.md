@@ -1,5 +1,5 @@
 ---
-title: "ECML PKDD Workshops - MIDAS"
+title: "Proceedings ECML PKDD Workshops - MIDAS"
 date: 2019-01-01
 venue: 'ECML PKDD Workshops - MIDAS'
 category: books
