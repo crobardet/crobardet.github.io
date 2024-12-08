@@ -20,3 +20,10 @@ location: ""
 
 
 **National scientific collaborations**
+* Moustafa Bensafi
+* Alexandre Termier
+* Sébastien Fiorucci
+* Jérémie Topin
+* Peggy Cellier
+* Marc Plantevit
+* Julien Perez
