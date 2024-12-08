@@ -30,8 +30,11 @@ Organisation & Invited Talks
 
 Grants
 ======
-1. Deputy-PI of Wait4 PEPR project (INRAE, INRIA, CEA, INSA, AgroParisTech) (2022–2027)
-PI of Improving psychiatric screening with artificial intelligence (INSA Lyon, Humans Matter) (2022-2026)
+* PI of Improving psychiatric screening with artificial intelligence (INSA Lyon, Humans Matter) (2022-2026)
+* 
+1. Deputy-PI of Wait4, PEPR project (INRAE, INRIA, CEA, INSA, AgroParisTech) (2022–2027)
+
+
 
 Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
