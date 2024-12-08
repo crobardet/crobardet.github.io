@@ -51,6 +51,36 @@ Program Committees
 * SIAM Data Mining, SDM, 2010–2011, area Chair 2012–2018.
 * European Machine Learning and Data Mining Conference, ECMLPKDD, 2006–2018, area Chair 2020–2024.
   
+Advising
+=====
+
+* Elouan Vincent (2024--). Subject: Apprentissage auto-supervisÃ© sur des graphes hÃ©tÃ©rogÃ¨nes avec transport optimalÂ : contribution Ã  lâ€™analyse des comportements et des dynamiques sociales des animaux. Co-supervised with Marc Plantevit.
+* Ata Kamal (2022--). Subject: interpretable deep neural networks. Co-supervised with Marc Plantevit.
+* Arthur Batel (2022--). Subject: AmÃ©liorer le dÃ©pistage de troubles psychiatriques grÃ¢ce Ã  l'intelligence artificielle. Co-supervised with Marc Plantevit. Funding: ANR PORTRAIT.
+* Rafael Ramos Tubino (2019--2023). Subject: Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies. Co-supervised with Rémy Cazabet. Funding: ANR JCJC BITUNAM.
+* Timothée Chane-Hai (2020--2023). Subject: Guidage des métaheuristiques par machine-learning. Co-supervised with Thibaud Monteiro and Samuel Vercraene.
+* Léonard Tschora (2020--2024). Subject: Machine Learning Techniques for electricity prices forecasting. Co-supervised with Marc Plantevit.
+* Luca Veyrin-Forrer (2019--2023). Subject: Machine Learning meets Data Mining: Towards sparse and interpretable deep neural networks. Co-supervised with Marc Plantevit and Stefan Duffner. Funding: IDEXLYON Academics project.
+* Mohamed Benabdelkrim (2017--2021) Subject: Development of new algorithms for detecting communities in heterogeneous information networks. Co-supervised with Jean Savinien. Funding: emlyon Business School.
+* Corentin Lonjarret (2018--2021). Subject: Data mining methods for the analysis of social networks and opinions. Co-supervised with Marc Plantevit. Funding: CIFRE VISIATIV.
+* Louis Duvivier (2018--2021). Subject: Automatic detection of the structure of interactions within complex systems by modeling and compression of graphs. Co-supervised with Rémy Cazabet. Funding: ENS scholarship.
+* Mohamed Ali Hammal (2016--2020). Subject: Analysis of territorial systems and food networks using data mining and cartographic representation approaches. Co-supervised with Luc Merchez. Funding: Labex IMU, RESALI project.
+* Aimene Belfodil co-supervised with Mehdi Kaytoue. Title An Order Theoretic Point-of-view on Subgroup Discovery. Defended September 30, 2019. Reviewers Bruno Crémilleux - université de Caen et Bernhard Ganter - Technische Universitaet Dresden. Funding: CIFRE Mobile devices.
+* Ahmed Anes Bendimerad co-supervised with Marc Plantevit. Title : Mining Useful Patterns in Attributed Graphs. Defended September 5, 2019. Reviwers: Aristides Gionis - Aalto University et Marie-Christine Rousset - université Grenoble Alpes. Funding: research agreement with Thales R & D. Thesis award, EGC 2020.
+* Ronan Hamon co-supervised with Patrick Flandrin and Pierre Borgnat. Title: Analyse de réseaux temporels par des méthodes de traitement du signal : application au systÃ¨me de vélos en libre-service Ã  Lyon. Defended September 30, 2015. Funding: regional scholarship (ARC 5 et ARC 6). Thesis award from Abertis chair 2016.
+* Ruggero Pensa co-supervised with Jean-FranÃ§ois Boulicaut. Title: Co-clustering under constraints. Defended November 21, 2006. Reviewers Céline Rouveirol - université Paris 13 and Bruno Crémilleux - université de Caen. Funding: ministerial scholarship.
+    
+    
+    
+    
+    
+    
+    
+    
+  
+   
+    
+
 
 Awards
 =====
