@@ -16,7 +16,7 @@ Organisation & Invited Talks
 
 <ul>
 <li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
-<li> Program Co-Chair of ECMLPKDD 2019, Würzburg, Germany.</li>
+<li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
 <li>Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
 <li>Tutorials chair for ECMLPKDD 2014, Nancy France.</li>
 <li> Lecturer at the International Summer School Resource-aware Machine Learning at Technische Universität Dortmund, Germany, September 29, 2014</li>
