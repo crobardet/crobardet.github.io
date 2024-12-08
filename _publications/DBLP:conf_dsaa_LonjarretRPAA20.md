@@ -1,5 +1,5 @@
 ---
-title: "Why Should {I} Trust This Item? Explaining the Recommendations of any Model"
+title: "Why Should I Trust This Item? Explaining the Recommendations of any Model"
 date: 2020-01-01
 venue: 'IEEE International Conference on Data Science and Advanced Analytics, DSAA'
 category: conferences
