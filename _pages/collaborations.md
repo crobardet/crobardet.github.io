@@ -24,8 +24,8 @@ redirect_from:
 * <a href="https://sites.google.com/site/moustafabensafi/home">Moustafa Bensafi</a>, Centre de recherche en neurosciences de Lyon.
 * <a href="https://cazabetremy.fr/">Rémy Cazabet</a>, Université Claude Bernard Lyon 1.
 * <a href="https://people.irisa.fr/Peggy.Cellier/">Peggy Cellier</a>, INSA Rennes.
-* Sébastien Fiorucci
-* Julien Perez
-* Marc Plantevit
-* Alexandre Termier
-* Jérémie Topin
+* <a href="https://univ-cotedazur.fr/annuaire/m-sebastien-fiorucci">Sébastien Fiorucci</a>, Université Côte d'Azur.
+* <a href="https://www.lre.epita.fr/people/staff/">Julien Perez</a>, EPITA Paris.
+* <a href="https://www.lre.epita.fr/perso/marc-plantevit/">Marc Plantevit</a>, EPITA Lyon.
+* <a href="https://people.irisa.fr/Alexandre.Termier/">Alexandre Termier</a>, Université Rennes 1.
+* <a hrfe="https://univ-cotedazur.fr/jeremie-topin">Jérémie Topin</a>, Université Côte d'Azur.
