@@ -20,10 +20,10 @@ redirect_from:
   
 
 **National scientific collaborations**
-* Idir Benouaret
-* Moustafa Bensafi
-* Rémy Cazabet
-* Peggy Cellier
+* <a href="https://www.lre.epita.fr/perso/idir-benouaret/">Idir Benouaret</a>, EPITA Lyon.
+* <a href="https://sites.google.com/site/moustafabensafi/home">Moustafa Bensafi</a>, Centre de recherche en neurosciences de Lyon.
+* <a href="https://cazabetremy.fr/">Rémy Cazabet</a>, Université Claude Bernard Lyon 1.
+* <a href="https://people.irisa.fr/Peggy.Cellier/">Peggy Cellier</a>, INSA Rennes.
 * Sébastien Fiorucci
 * Julien Perez
 * Marc Plantevit
