@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **International scientific collaborations**
-* Giuseppina Andresini
+* <a href="https://kdde.di.uniba.it/people/giuseppina-andresini/">Giuseppina Andresini</a>, Università degli studi di Bari Aldo Moro, Italy.
 * Annalisa Appice
 * Martin Atzmueller
 * Tijl De Bie
