@@ -16,7 +16,7 @@ redirect_from:
 * <a href="https://ai.ugent.be/people/TijlDeBie.en.html">Tijl De Bie</a>, University of Ghent, Belgium.
 * <a href="https://people.cs.kuleuven.be/~tias.guns/">Tias Guns</a>, KU Leuven, Belgium.
 * <a href="https://research.ugent.be/web/person/jefrey-lijffijt-0/en">Jefrey Lijffijt</a>, University of Ghent, Belgium.
-* Ruggero Pensa
+* <a href="http://www.di.unito.it/~pensa/">Ruggero Pensa</a>, Università degli Studi di Torino, Italy.
   
 
 **National scientific collaborations**
