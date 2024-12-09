@@ -10,23 +10,22 @@ redirect_from:
 {% include base_path %}
 
 **International scientific collaborations**
-* Martin Atzmueller
-* Jefrey Lijffijt
-* Tijl De Bie
-* Jilles Vreeken
-* Tias Guns
-* Ruggero Pensa
-* Annalisa Appice
 * Giuseppina Andresini
+* Annalisa Appice
+* Martin Atzmueller
+* Tijl De Bie
+* Tias Guns
+* Jefrey Lijffijt
+* Ruggero Pensa
   
 
 **National scientific collaborations**
-* Moustafa Bensafi
-* Alexandre Termier
-* Sébastien Fiorucci
-* Jérémie Topin
-* Peggy Cellier
-* Marc Plantevit
-* Julien Perez
-* Rémy Cazabet
 * Idir Benouaret
+* Moustafa Bensafi
+* Rémy Cazabet
+* Peggy Cellier
+* Sébastien Fiorucci
+* Julien Perez
+* Marc Plantevit
+* Alexandre Termier
+* Jérémie Topin
