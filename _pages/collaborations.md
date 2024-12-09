@@ -11,8 +11,8 @@ redirect_from:
 
 **International scientific collaborations**
 * <a href="https://kdde.di.uniba.it/people/giuseppina-andresini/">Giuseppina Andresini</a>, Università degli studi di Bari Aldo Moro, Italy.
-* Annalisa Appice
-* Martin Atzmueller
+* <a href="https://kdde.di.uniba.it/people/annalisa-appice/">Annalisa Appice</a>, Università degli studi di Bari Aldo Moro, Italy.
+* <a href="https://martin.atzmueller.net/">Martin Atzmueller</a>, Osnabrück University, Germany.
 * Tijl De Bie
 * Tias Guns
 * Jefrey Lijffijt
