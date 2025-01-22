@@ -45,11 +45,11 @@ Editorial Board Memberships
 
 Program Committees
 =====
-* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2016–2020, area chair 2021-2024
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2016–2020, area chair 2021-2025.
 * International Joint Conference on Artificial Intelligence, IJCAI, area Chair 2017–2023.
 * IEEE International Conference on Data Mining, IEEE ICDM, 2008–2015, area Chair 2016–2018.
 * SIAM Data Mining, SDM, 2010–2011, area Chair 2012–2018.
-* European Machine Learning and Data Mining Conference, ECMLPKDD, 2006–2018, area Chair 2020–2024.
+* European Machine Learning and Data Mining Conference, ECMLPKDD, 2006–2018, area Chair 2020–2025.
 * Intelligent Data Analysis, IDA, 2007--2010, area chair 2023-2025.
 * European Conference on Artificial Intelligence, ECAI, 2023-2024.
   
