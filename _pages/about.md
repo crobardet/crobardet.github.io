@@ -82,6 +82,6 @@ Advising
 * Aimene Belfodil (2016--2019). Title An Order Theoretic Point-of-view on Subgroup Discovery. Co-supervised with Mehdi Kaytoue. Funding: CIFRE Mobile devices.
 * Ahmed Anes Bendimerad (2016--2019). Title : Mining Useful Patterns in Attributed Graphs. Co-supervised with Marc Plantevit. Funding: research agreement with Thales R & D. <b>Thesis award, EGC 2020.</b>
 * Ronan Hamon (2012--2015). Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
-* Ruggero Pensa(2003--2006). Title: Co-clustering under constraints. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
+* Ruggero Pensa (2003--2006). Title: Co-clustering under constraints. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
     
 
