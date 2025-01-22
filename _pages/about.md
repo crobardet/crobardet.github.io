@@ -45,7 +45,7 @@ Editorial Board Memberships
 
 Program Committees
 =====
-* <b>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)/b>: Reviewer 2016–2020, Area Chair 2021-2025.
+* <b>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)</b>: Reviewer 2016–2020, Area Chair 2021-2025.
 * International Joint Conference on Artificial Intelligence, IJCAI: Area Chair 2017–2023.
 * IEEE International Conference on Data Mining, IEEE ICDM: Reviewer 2008–2015, Area Chair 2016–2018.
 * SIAM Data Mining, SDM: Reviewer 2010–2011, Area Chair 2012–2018.
