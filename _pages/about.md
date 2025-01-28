@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=400>
-<img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=400>
+<img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=3500>
+<img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=350>
+
 <img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500>
 
 I am professor at LIRIS lab where a I lead the research group on <a href="https://projet.liris.cnrs.fr/dm2l/">Data Mining and Machine Learning</a>. I design exploratory data analysis methods by hybridizing numerical machine learning and symbolic reasoning techniques. Numerical machine learning methods excel at learning complex, noise-resistant models but are often opaque, intricate, and difficult to validate. In contrast, symbolic methods provide interpretable justifications for their results and are easier to explain, but they tend to be sensitive to noise and lack scalability. By integrating symbolic reasoning with neural networks, my work seeks to combine the strengths of both approaches while mitigating their respective limitations.
