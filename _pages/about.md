@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=3500>
-<img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=350>
+<img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=500>
+<img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500>
 
 <img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500>
 
