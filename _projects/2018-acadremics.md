@@ -1,7 +1,7 @@
 ---
 title: "Academics (2018-2021)"
 collection: project
-type: "Scientific breakthrough of IDEX Lyon"
+type: "Scientific breakthrough of IDEX Lyon -- Co-PI"
 permalink: "http://www.ixxi.fr/equipes/projet-ACADEMICS"
 venue: "Scientific breakthrough of IDEX Lyon"
 date: 2018-09-01
