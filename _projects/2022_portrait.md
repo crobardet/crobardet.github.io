@@ -1,11 +1,11 @@
 ---
 title: "Portrait (2022-2026)"
 collection: project
-type: "ANR PRCE"
+type: "ANR PRCE -- PI"
 permalink: "https://anr.fr/Projet-ANR-22-CE23-0006"
 venue: "ANR PRCE with Humans Matter"
 date: 2022-09-01
-location: "City, Country"
+      location: "City, Country"
 ---
 
 The project <a href="https://anr.fr/Projet-ANR-22-CE23-0006">PORTRAIT </a> (Improving psychiatric screening with artificial intelligence) is to develop an adaptive testing method that adjusts the questions of a test based on the subject's previous responses. To achieve this, the project aims to extend recent advancements in recommendation systems and reinforcement learning methods to adapt tests dynamically.
