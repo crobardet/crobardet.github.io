@@ -68,16 +68,9 @@ Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapporteure, 2018.
 de Montpellier.
 * 2017 Présidente du jury de thèse de Maxime Gasse – “Apprentissage de Structure de Modèles Graphiques Probabilistes : application à la Classification Multi-Label”. Direction : Alexandre Aussem et Haytham Elghazel. Soutenue le 13 janvier 2017, Université Lyon 1.
 * 2016 rapporteure de la thèse de Melissa Ailem – “Sparsity-sensitive diagonal co-clustering algorithms for the effective handling of text data”. Direction : Mohamed Nadif. Soutenue le 18 novembre 2016, Université Paris Descartes.
-* 2016 rapporteure de la thèse de Mostafa Haghir Chehreghani – “A Theory-based Study of Graph Mining”. Direction : Maurice Bruynooghe et Jan Ramon. Soutenue le
-6 février 2016, University KU Leuven, Belgique.
-* 2015 rapporteure de la thèse de Seyed Hamid Mirisaee – “Mining representative items
-and itemsets with binary matrix factorization and instance selection”. Direction :
-Alexandre Termier et Éric Gaussier. Soutenue le 16 septembre 2015, Université
-de Grenoble-Alpes.
-* 2015 rapporteure de la thèse de Vı́ctor Codocedo-Henrı́quez – “Contributions à l’indexation
-et à la recherche d’information avec l’analyse formelle de concepts” Direction :
-Hernán Astudillo et Amedeo Napoli. Soutenue le 5 septembre 2015, Université
-de Lorraine.
+* Mostafa Haghir Chehreghani, A Theory-based Study of Graph Mining, direction : Maurice Bruynooghe et Jan Ramon, University KU Leuven, Belgique, rapporteure, 2016.
+* Seyed Hamid Mirisaee, Mining representative items and itemsets with binary matrix factorization and instance selection, direction : Alexandre Termier et Éric Gaussier, Université de Grenoble-Alpes, rapporteure, 2015. 
+* Vı́ctor Codocedo-Henrı́quez, Contributions à l’indexation et à la recherche d’information avec l’analyse formelle de concepts, direction : Hernán Astudillo et Amedeo Napoli, Université de Lorraine, rapporteure, 2015.
 * Maximilien Danisch, Mesures de proximité appliquées à la détection de communautés dans les grands graphes de terrain, direction : Bénédicte Le Grand et Jean-Loup Guillaume, Université Pierre et Marie Curie, rapporteure, 2015.
 * Manisha Pujari, Link prediction in large-scale complex networks, direction : Céline Rouveirol et Rushed Kanawati, Université Paris Nord, rapporteure, 2015.
 *Elias Egho, Mining Heterogeneous Multidimensional Sequential Data, direction Amedeo Napoli, Chedy Raissi et Nicolas Jay, Loria, Université de Lorraine, rapporteure, 2014.
