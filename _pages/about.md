@@ -23,6 +23,9 @@ Organisation & Invited Talks
 ======
 
 <ul>
+  <li> Invited talk at 
+<b>Laboratoire des sciences du numérique de Nantes</b>, <it>Explaining Graph Neural Networks</it>, 10th of March 2025.
+
 <li> Co-Organiser of the MaDICS workshop EXMIA, 2025.</li>
 <li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
 <li> Lecturer at University of Bari, June 2022.</li>
