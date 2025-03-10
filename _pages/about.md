@@ -73,7 +73,7 @@ Advising
 * Adriana Prado (2011--2012), ANR BINGO2.
   
 **Doctoral Researchers**
-
+* Elia Altimani (2025--). Subject: A complex system model of volcanic plumbing systems: integration of physical models and network structures. Co-supervised with Rémy Cazabet.
 * Elouan Vincent (2024--). Subject: Self-supervised learning on heterogeneous graphs with optimal transport: contribution to the analysis of animal behaviors and social dynamics. Co-supervised with Marc Plantevit. Funding: PEPR WAIT4.
 * Ata Kamal (2022--). Subject: Interpretable deep neural networks. Co-supervised with Marc Plantevit.
 * Arthur Batel (2022--). Subject: Improving the screening of psychiatric disorders using artificial intelligence. Co-supervised with Marc Plantevit. Funding: ANR PORTRAIT.
