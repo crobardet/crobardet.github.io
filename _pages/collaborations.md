@@ -31,40 +31,21 @@ redirect_from:
 * <a hrfe="https://univ-cotedazur.fr/jeremie-topin">Jérémie Topin</a>, Université Côte d'Azur.
 
 **PhD defence jurys**
-* Bastien Giles, Detecting Health Care Frauds In Attributed Graphs Using Interpretable or
-Explainable Methods, Université Jean Monnet Saint-Étienne, examinatrice 2024.
-* Etienne Lehembre, Motifs structurés et intérêt subjectif, Normandie Université, rappor-
-teure, 2024.
-* Olivier Gauriau, Fouille de règles numériques pour la prédiction de la dynamique des
-maladies des plantes, Université de Rennes, examinatrice, 2024.
-* Malik Al Essa, leveraging explainable artificial intelligence to enhance cyber-threat de-
-tection, University of Bari ”Aldo Moro”, rapporteure, 2024.
-* Yolene Berrou, Nœuds socio-énergétiques et complexes simpliciaux orientés données pour
-l’exploration de communautés d’énergies, université de Technologie de Troyes, rappor-
-teure, 2023.
-* Elena Battaglia, On fast, parameter-less and private co-clustering of n-way data, Univer-
-sità degli Studi di Torino, examinatrice, 2022.
-* Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes,
-rapporteure, 2022.
-* Dario Lucente, Predicting probabilities of climate extremes from observations and dy-
-namics, ENS Lyon, examinatrice, 2021.
-* Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university
-Belgium, rapporteure, 2021.
-*  Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes
-réels, la Rochelle Université, rapportrice, 2021.
+* Bastien Giles, Detecting Health Care Frauds In Attributed Graphs Using Interpretable or Explainable Methods, Université Jean Monnet Saint-Étienne, examinatrice 2024.
+* Etienne Lehembre, Motifs structurés et intérêt subjectif, Normandie Université, rapporteure, 2024.
+* Olivier Gauriau, Fouille de règles numériques pour la prédiction de la dynamique des maladies des plantes, Université de Rennes, examinatrice, 2024.
+* Malik Al Essa, leveraging explainable artificial intelligence to enhance cyber-threat detection, University of Bari ”Aldo Moro”, rapporteure, 2024.
+* Yolene Berrou, Nœuds socio-énergétiques et complexes simpliciaux orientés données pour l’exploration de communautés d’énergies, université de Technologie de Troyes, rapporteure, 2023.
+* Elena Battaglia, On fast, parameter-less and private co-clustering of n-way data, Università degli Studi di Torino, examinatrice, 2022.
+* Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes, rapporteure, 2022.
+* Dario Lucente, Predicting probabilities of climate extremes from observations and dynamics, ENS Lyon, examinatrice, 2021.
+* Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university Belgium, rapporteure, 2021.
+*  Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, rapportrice, 2021.
 * Yichang Wang, Interpretable time series classification, université de Rennes, rapporteure, 2021.
-* Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston
-Berger de Saint-Louis (Sénégal), rapporteure, 2020.
-* Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide
-de graphes multipartis, Sorbonne Université, rapporteure, 2020.
-* 2019 Rapportrice de la these de Jordan Cambe – Understanding the complex dynamics of
-social systems with diverse formal tools. Direction : Pablo Jensen. Soutenue le 26
-séptembre 2019, Ecole Normale Supérieure Lyon.
-* 2019 Rapportrice de l’HDR Arnaud Soulet– Découverte de motifs centrée sur l’utilisateur.
-Soutenue le 22 novembre 2019, Université de Tours.
-* 2019 Examinatrice de la thèse d’Alban Siffer – New Statistical Methods for Data Mining
-Contributions to Anomaly Detection and Unimodality Testing. Direction : Alexan-
-dre Termier. Soutenue le 19 décembre 2019, Université de Rennes 1.
+* Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston Berger de Saint-Louis (Sénégal), rapporteure, 2020.
+* Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide de graphes multipartis, Sorbonne Université, rapporteure, 2020.
+* Jordan Cambe, Understanding the complex dynamics of social systems with diverse formal tools, Rapportrice, direction : Pablo Jensen, Ecole Normale Supérieure Lyon, 2019.
+* Alban Siffer, New Statistical Methods for Data Mining Contributions to Anomaly Detection and Unimodality Testing. Direction : Alexandre Termier, Université de Rennes 1, examinatrice, 2019.
 * 2018 Rapportrice de la thèse de Alsane Sene – “Modélisation et structuration des connais-
 sances dans les processus de télémédecine dédiés aéronautique”. Direction : Bernard
 Kamsu-Foguem et Pierre Rumeau. Soutenue le 17 décembre 2018, Université
@@ -127,10 +108,11 @@ sage actif. Direction : Bernadette Bouchon-Meunier et Nicolas Labroche,
 Soutenue le 5 juillet 2011, Laboratoire d’Informatique de Paris 6.
 
 
-   **HDR jurys**
+**HDR jurys**
 * Fragkiskos Malliaros, A Machine Learning Tour in Network Science, Université Paris-
 Saclay, rapporteure, 2024.
 * Fabien Tarissan, The analysis and modelling of multi-partite networks, ENS Paris-Saclay,
 rapporteure, 2023.
 * Peggy Cellier, Towards Usable Pattern Mining, Université de Rennes, examinatrice, 2020.
-* Germain Forestier, “Contributions à l’analyse de séries temporelles et de séquences symboliques”, Université Haute-Alsace, Présidente du jury, 2017. 
+* Arnaud Soulet, Découverte de motifs centrée sur l’utilisateur, Université de Tours, rapportrice, 2019.
+* Germain Forestier, Contributions à l’analyse de séries temporelles et de séquences symboliques, Université Haute-Alsace, Présidente du jury, 2017. 
