@@ -60,14 +60,12 @@ redirect_from:
 * Alexandre Millot,
 * Alice Martin
 * Yuyao Chen.
-* Alsane Sene, Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique,direction : Bernard
-Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapporteure, 2018. 
-* 2018 rapporteure de la thèse de Rohit Kumar – “Temporal graph mining and distributed processing”. Direction : Alberto Abello et Toon Calders. Soutenue le 27 juin 2018, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles (ULB). 
-* 2017 Examinatrice de la thèse de Baptiste de La Robertie –“Modèles d’Autorité et d’Expertise par les Graphes Hétérogènes”. Direction : Olivier Teste et Yoann Pitarch. Soutenue le 19 septembre 2017, Université Toulouse 3 Paul Sabatier.
-* 2017 rapporteure de la thèse de Vijay Ingalalli – “Querying and mining multigraphs”. Direction : Pascal Poncelet et Dino Ienco. Soutenue le 27 février 2017, Université
-de Montpellier.
-* 2017 Présidente du jury de thèse de Maxime Gasse – “Apprentissage de Structure de Modèles Graphiques Probabilistes : application à la Classification Multi-Label”. Direction : Alexandre Aussem et Haytham Elghazel. Soutenue le 13 janvier 2017, Université Lyon 1.
-* 2016 rapporteure de la thèse de Melissa Ailem – “Sparsity-sensitive diagonal co-clustering algorithms for the effective handling of text data”. Direction : Mohamed Nadif. Soutenue le 18 novembre 2016, Université Paris Descartes.
+* Alsane Sene, Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique,direction : Bernard Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapporteure, 2018. 
+* Rohit Kumar, Temporal graph mining and distributed processing, direction : Alberto Abello et Toon Calders, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles (ULB), rapporteure, 2018. 
+* Baptiste de La Robertie, Modèles d’Autorité et d’Expertise par les Graphes Hétérogènes, direction : Olivier Teste et Yoann Pitarch, Université Toulouse 3 Paul Sabatier, examinatrice, 2017.
+* Vijay Ingalalli, Querying and mining multigraphs, direction : Pascal Poncelet et Dino Ienco, Université de Montpellier, rapporteure, 2017.
+* Maxime Gasse, Apprentissage de Structure de Modèles Graphiques Probabilistes : application à la Classification Multi-Label, direction : Alexandre Aussem et Haytham Elghazel, Université Lyon 1, présidente du jury, 2017.
+* Melissa Ailem, Sparsity-sensitive diagonal co-clustering algorithms for the effective handling of text data, direction : Mohamed Nadif, Université Paris Descartes, rapporteure, 2016.
 * Mostafa Haghir Chehreghani, A Theory-based Study of Graph Mining, direction : Maurice Bruynooghe et Jan Ramon, University KU Leuven, Belgique, rapporteure, 2016.
 * Seyed Hamid Mirisaee, Mining representative items and itemsets with binary matrix factorization and instance selection, direction : Alexandre Termier et Éric Gaussier, Université de Grenoble-Alpes, rapporteure, 2015. 
 * Vı́ctor Codocedo-Henrı́quez, Contributions à l’indexation et à la recherche d’information avec l’analyse formelle de concepts, direction : Hernán Astudillo et Amedeo Napoli, Université de Lorraine, rapporteure, 2015.
