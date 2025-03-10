@@ -130,9 +130,7 @@ Soutenue le 5 juillet 2011, Laboratoire d’Informatique de Paris 6.
    **HDR jurys**
 * Fragkiskos Malliaros, A Machine Learning Tour in Network Science, Université Paris-
 Saclay, rapporteure, 2024.
-* Fabien Tarissan, The analysis and modelling of multi-partite networks ENS Paris-Saclay,
+* Fabien Tarissan, The analysis and modelling of multi-partite networks, ENS Paris-Saclay,
 rapporteure, 2023.
 * Peggy Cellier, Towards Usable Pattern Mining, Université de Rennes, examinatrice, 2020.
-  * 2017 Présidente du jury d’HDR de Germain Forestier – “Contributions à l’analyse de
-séries temporelles et de séquences symboliques”. Soutenue le 17 novembre 2017,
-Université Haute-Alsace.
+* Germain Forestier, “Contributions à l’analyse de séries temporelles et de séquences symboliques”, Université Haute-Alsace, Présidente du jury, 2017. 
