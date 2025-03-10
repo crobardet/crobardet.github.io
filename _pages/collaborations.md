@@ -40,40 +40,28 @@ redirect_from:
 * Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes, rapporteure, 2022.
 * Dario Lucente, Predicting probabilities of climate extremes from observations and dynamics, ENS Lyon, examinatrice, 2021.
 * Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university Belgium, rapporteure, 2021.
-*  Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, rapportrice, 2021.
+* Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, rapportrice, 2021.
 * Yichang Wang, Interpretable time series classification, université de Rennes, rapporteure, 2021.
 * Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston Berger de Saint-Louis (Sénégal), rapporteure, 2020.
 * Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide de graphes multipartis, Sorbonne Université, rapporteure, 2020.
 * Jordan Cambe, Understanding the complex dynamics of social systems with diverse formal tools, Rapportrice, direction : Pablo Jensen, Ecole Normale Supérieure Lyon, 2019.
 * Alban Siffer, New Statistical Methods for Data Mining Contributions to Anomaly Detection and Unimodality Testing. Direction : Alexandre Termier, Université de Rennes 1, examinatrice, 2019.
-* 2018 Rapportrice de la thèse de Alsane Sene – “Modélisation et structuration des connais-
-sances dans les processus de télémédecine dédiés aéronautique”. Direction : Bernard
+* Alexandre Millot,
+* Alice Martin
+* Yuyao Chen.
+* 2018 Rapportrice de la thèse de Alsane Sene – “Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique”. Direction : Bernard
 Kamsu-Foguem et Pierre Rumeau. Soutenue le 17 décembre 2018, Université
 de Pau.
-* 2018 Garant de l’HDR de Marc Plantevit – “Contributions to pattern mining in augmented
-graphs”. Soutenue le 14 décembre 2018, Université Lyon 1.
-* 2018 Examinatrice de l’HDR de Lionel Tabourier – “From a static to a dynamic analysis
-of complex networks”. Soutenue le 24 septembre 2018, Université Paris 6.
-* 2018 Rapportrice de l’HDR de Claude Pasquier – “Contributions à la fouille de données
-complexes”. Soutenue le 20 septembre 2018, Université Côte d’azur.
-* 2018 Rapportrice de la thèse de Rohit Kumar – “Temporal graph mining and distributed
-processing”. Direction : Alberto Abello et Toon Calders. Soutenue le 27 juin 2018, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles
-(ULB). 
-* 2017 Examinatrice de la thèse de Baptiste de La Robertie –“Modèles d’Autorité et d’Expertise
-par les Graphes Hétérogènes”. Direction : Olivier Teste et Yoann Pitarch .
-Soutenue le 19 septembre 2017, Université Toulouse 3 Paul Sabatier.
-* 2017 Rapporteur de la thèse de Vijay Ingalalli – “Querying and mining multigraphs”.
-Direction : Pascal Poncelet et Dino Ienco. Soutenue le 27 février 2017, Université
+* 2018 Garant de l’HDR de Marc Plantevit – “Contributions to pattern mining in augmented graphs”. Soutenue le 14 décembre 2018, Université Lyon 1.
+
+
+* 2018 Rapportrice de la thèse de Rohit Kumar – “Temporal graph mining and distributed processing”. Direction : Alberto Abello et Toon Calders. Soutenue le 27 juin 2018, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles (ULB). 
+* 2017 Examinatrice de la thèse de Baptiste de La Robertie –“Modèles d’Autorité et d’Expertise par les Graphes Hétérogènes”. Direction : Olivier Teste et Yoann Pitarch. Soutenue le 19 septembre 2017, Université Toulouse 3 Paul Sabatier.
+* 2017 Rapporteur de la thèse de Vijay Ingalalli – “Querying and mining multigraphs”. Direction : Pascal Poncelet et Dino Ienco. Soutenue le 27 février 2017, Université
 de Montpellier.
-* 2017 Présidente du jury de thèse de Maxime Gasse – “Apprentissage de Structure de
-Modèles Graphiques Probabilistes : application à la Classification Multi-Label”. Direc-
-tion : Alexandre Aussem et Haytham Elghazel. Soutenue le 13 janvier 2017,
-Université Lyon 1.
-* 2016 Rapporteur de la thèse de Melissa Ailem – “Sparsity-sensitive diagonal co-clustering
-algorithms for the effective handling of text data”. Direction : Mohamed Nadif.
-Soutenue le 18 novembre 2016, Université Paris Descartes.
-* 2016 Rapporteur de la thèse de Mostafa Haghir Chehreghani – “A Theory-based Study of
-Graph Mining”. Direction : Maurice Bruynooghe et Jan Ramon. Soutenue le
+* 2017 Présidente du jury de thèse de Maxime Gasse – “Apprentissage de Structure de Modèles Graphiques Probabilistes : application à la Classification Multi-Label”. Direction : Alexandre Aussem et Haytham Elghazel. Soutenue le 13 janvier 2017, Université Lyon 1.
+* 2016 Rapporteur de la thèse de Melissa Ailem – “Sparsity-sensitive diagonal co-clustering algorithms for the effective handling of text data”. Direction : Mohamed Nadif. Soutenue le 18 novembre 2016, Université Paris Descartes.
+* 2016 Rapporteur de la thèse de Mostafa Haghir Chehreghani – “A Theory-based Study of Graph Mining”. Direction : Maurice Bruynooghe et Jan Ramon. Soutenue le
 6 février 2016, University KU Leuven, Belgique.
 * 2015 Rapporteur de la thèse de Seyed Hamid Mirisaee – “Mining representative items
 and itemsets with binary matrix factorization and instance selection”. Direction :
@@ -109,10 +97,10 @@ Soutenue le 5 juillet 2011, Laboratoire d’Informatique de Paris 6.
 
 
 **HDR jurys**
-* Fragkiskos Malliaros, A Machine Learning Tour in Network Science, Université Paris-
-Saclay, rapporteure, 2024.
-* Fabien Tarissan, The analysis and modelling of multi-partite networks, ENS Paris-Saclay,
-rapporteure, 2023.
+* Fragkiskos Malliaros, A Machine Learning Tour in Network Science, Université Paris-Saclay, rapporteure, 2024.
+* Fabien Tarissan, The analysis and modelling of multi-partite networks, ENS Paris-Saclay, rapporteure, 2023.
 * Peggy Cellier, Towards Usable Pattern Mining, Université de Rennes, examinatrice, 2020.
 * Arnaud Soulet, Découverte de motifs centrée sur l’utilisateur, Université de Tours, rapportrice, 2019.
+* Lionel Tabourier, From a static to a dynamic analysis of complex networks, Université Paris 6, examinatrice, 2018.
+* Claude Pasquier, Contributions à la fouille de données complexes, Université Côte d’azur, rapportrice, 2018.
 * Germain Forestier, Contributions à l’analyse de séries temporelles et de séquences symboliques, Université Haute-Alsace, Présidente du jury, 2017. 
