@@ -30,6 +30,16 @@ redirect_from:
 * <a href="https://people.irisa.fr/Alexandre.Termier/">Alexandre Termier</a>, Université Rennes 1.
 * <a hrfe="https://univ-cotedazur.fr/jeremie-topin">Jérémie Topin</a>, Université Côte d'Azur.
 
+**HDR jurys**
+* Fragkiskos Malliaros, A Machine Learning Tour in Network Science, Université Paris-Saclay, rapporteure, 2024.
+* Fabien Tarissan, The analysis and modelling of multi-partite networks, ENS Paris-Saclay, rapporteure, 2023.
+* Peggy Cellier, Towards Usable Pattern Mining, Université de Rennes, examinatrice, 2020.
+* Arnaud Soulet, Découverte de motifs centrée sur l’utilisateur, Université de Tours, rapportrice, 2019.
+* Lionel Tabourier, From a static to a dynamic analysis of complex networks, Université Paris 6, examinatrice, 2018.
+* Claude Pasquier, Contributions à la fouille de données complexes, Université Côte d’azur, rapportrice, 2018.
+* Germain Forestier, Contributions à l’analyse de séries temporelles et de séquences symboliques, Université Haute-Alsace, Présidente du jury, 2017.
+
+
 **PhD defence jurys**
 * Bastien Giles, Detecting Health Care Frauds In Attributed Graphs Using Interpretable or Explainable Methods, Université Jean Monnet Saint-Étienne, examinatrice 2024.
 * Etienne Lehembre, Motifs structurés et intérêt subjectif, Normandie Université, rapporteure, 2024.
@@ -96,11 +106,4 @@ sage actif. Direction : Bernadette Bouchon-Meunier et Nicolas Labroche,
 Soutenue le 5 juillet 2011, Laboratoire d’Informatique de Paris 6.
 
 
-**HDR jurys**
-* Fragkiskos Malliaros, A Machine Learning Tour in Network Science, Université Paris-Saclay, rapporteure, 2024.
-* Fabien Tarissan, The analysis and modelling of multi-partite networks, ENS Paris-Saclay, rapporteure, 2023.
-* Peggy Cellier, Towards Usable Pattern Mining, Université de Rennes, examinatrice, 2020.
-* Arnaud Soulet, Découverte de motifs centrée sur l’utilisateur, Université de Tours, rapportrice, 2019.
-* Lionel Tabourier, From a static to a dynamic analysis of complex networks, Université Paris 6, examinatrice, 2018.
-* Claude Pasquier, Contributions à la fouille de données complexes, Université Côte d’azur, rapportrice, 2018.
-* Germain Forestier, Contributions à l’analyse de séries temporelles et de séquences symboliques, Université Haute-Alsace, Présidente du jury, 2017. 
+
