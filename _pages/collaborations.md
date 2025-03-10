@@ -37,6 +37,7 @@ redirect_from:
 * Arnaud Soulet, Découverte de motifs centrée sur l’utilisateur, Université de Tours, rapportrice, 2019.
 * Lionel Tabourier, From a static to a dynamic analysis of complex networks, Université Paris 6, examinatrice, 2018.
 * Claude Pasquier, Contributions à la fouille de données complexes, Université Côte d’azur, rapportrice, 2018.
+* Marc Plantevit, Contributions to pattern mining in augmented graphs, Université Lyon 1, garant de l’HDR, 2018.
 * Germain Forestier, Contributions à l’analyse de séries temporelles et de séquences symboliques, Université Haute-Alsace, Présidente du jury, 2017.
 
 
@@ -59,12 +60,8 @@ redirect_from:
 * Alexandre Millot,
 * Alice Martin
 * Yuyao Chen.
-* 2018 Rapportrice de la thèse de Alsane Sene – “Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique”. Direction : Bernard
-Kamsu-Foguem et Pierre Rumeau. Soutenue le 17 décembre 2018, Université
-de Pau.
-* 2018 Garant de l’HDR de Marc Plantevit – “Contributions to pattern mining in augmented graphs”. Soutenue le 14 décembre 2018, Université Lyon 1.
-
-
+* Alsane Sene, Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique,direction : Bernard
+Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapportrice, 2018. 
 * 2018 Rapportrice de la thèse de Rohit Kumar – “Temporal graph mining and distributed processing”. Direction : Alberto Abello et Toon Calders. Soutenue le 27 juin 2018, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles (ULB). 
 * 2017 Examinatrice de la thèse de Baptiste de La Robertie –“Modèles d’Autorité et d’Expertise par les Graphes Hétérogènes”. Direction : Olivier Teste et Yoann Pitarch. Soutenue le 19 septembre 2017, Université Toulouse 3 Paul Sabatier.
 * 2017 Rapporteur de la thèse de Vijay Ingalalli – “Querying and mining multigraphs”. Direction : Pascal Poncelet et Dino Ienco. Soutenue le 27 février 2017, Université
@@ -81,29 +78,17 @@ de Grenoble-Alpes.
 et à la recherche d’information avec l’analyse formelle de concepts” Direction :
 Hernán Astudillo et Amedeo Napoli. Soutenue le 5 septembre 2015, Université
 de Lorraine.
-* 2015 Rapporteur de la thèse de Maximilien Danisch – Mesures de proximité appliquées à la
-détection de communautés dans les grands graphes de terrain. Direction : Bénédicte
-Le Grand et Jean-Loup Guillaume. Soutenue le 15 juin 2015, Université Pierre
-et Marie Curie.
+* 2015 Rapporteur de la thèse de Maximilien Danisch – Mesures de proximité appliquées à la détection de communautés dans les grands graphes de terrain. Direction : Bénédicte
+Le Grand et Jean-Loup Guillaume. Soutenue le 15 juin 2015, Université Pierre et Marie Curie.
 * 2015 Rapporteur de la thèse de Manisha Pujari – Link prediction in large-scale complex
-networks. Direction : Céline Rouveirol et Rushed Kanawati, Soutenue le 4
-mars 2015, Université Paris Nord.
-* 2014 Rapporteur de la thèse d’Elias Egho – Mining Heterogeneous Multidimensional
-Sequential Data. Direction Amedeo Napoli, Chedy Raissi et Nicolas Jay,
+networks. Direction : Céline Rouveirol et Rushed Kanawati, Soutenue le 4 mars 2015, Université Paris Nord.
+* 2014 Rapporteur de la thèse d’Elias Egho – Mining Heterogeneous Multidimensional Sequential Data. Direction Amedeo Napoli, Chedy Raissi et Nicolas Jay,
 Soutenue le 12 décembre 2014, Loria, Université de Lorraine.
-* 2014 Examinatrice de la thèse de Christiane Kamdem – “Abstraction et comparaison de
-traces d’exécutions pour l’analyse d’applications multimédias pour système embarqués”.
-Direction Marie-Christine Rousset, Maurice Tchuente et Noha Ibrahim.
-Soutenue le 5 Décembre 2014, au Laboratoire d’Informatique de Grenoble.
-* 2014 Rapporteur de la thèse de Hoang-Tung Tran – Correction automatique d’annotations
-de vidéos. Direction : François Jacquenet et Elisa Fromont. Soutenue le 27
-juin 2014, Laboratoire Hubert Curien de St-Etienne.
-* 2012 Examinatrice de la thèse de Clément Grimal – Apprentissage de co-similarités
-pour la classification automatique de données monovues et multivues. Direction : Éric Gaussier et Gilles Bisson. Soutenue le 11 octobre 2012, Laboratoire
-d’Informatique de Grenoble.
-* 2011 Examinatrice de la thèse de Viet-Vu Vu – Clustering semi-supervisé et apprentis-
-sage actif. Direction : Bernadette Bouchon-Meunier et Nicolas Labroche,
-Soutenue le 5 juillet 2011, Laboratoire d’Informatique de Paris 6.
+* 2014 Examinatrice de la thèse de Christiane Kamdem – “Abstraction et comparaison de traces d’exécutions pour l’analyse d’applications multimédias pour système embarqués”.
+Direction Marie-Christine Rousset, Maurice Tchuente et Noha Ibrahim. Soutenue le 5 Décembre 2014, au Laboratoire d’Informatique de Grenoble.
+* Hoang-Tung Tran, Correction automatique d’annotations de vidéos, direction : François Jacquenet et Elisa Fromont, Laboratoire Hubert Curien de St-Etienne, rapportrice, 2014.
+* Clément Grimal, Apprentissage de co-similarités pour la classification automatique de données monovues et multivues, direction : Éric Gaussier et Gilles Bisson, Laboratoire d’Informatique de Grenoble,  examinatrice, 2012.
+* Viet-Vu Vu, Clustering semi-supervisé et apprentissage actif, direction : Bernadette Bouchon-Meunier et Nicolas Labroche, Laboratoire d’Informatique de Paris 6, examinatrice, 2011.
 
 
 
