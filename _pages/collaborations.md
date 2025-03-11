@@ -45,16 +45,16 @@ redirect_from:
 * Bastien Giles, Detecting Health Care Frauds In Attributed Graphs Using Interpretable or Explainable Methods, Université Jean Monnet Saint-Étienne, examinatrice 2024.
 * Etienne Lehembre, Motifs structurés et intérêt subjectif, Normandie Université, rapporteure, 2024.
 * Olivier Gauriau, Fouille de règles numériques pour la prédiction de la dynamique des maladies des plantes, Université de Rennes, examinatrice, 2024.
-* Malik Al Essa, leveraging explainable artificial intelligence to enhance cyber-threat detection, University of Bari ”Aldo Moro”, rapporteure, 2024.
-* Yolene Berrou, Nœuds socio-énergétiques et complexes simpliciaux orientés données pour l’exploration de communautés d’énergies, université de Technologie de Troyes, rapporteure, 2023.
+* Malik Al Essa, leveraging explainable artificial intelligence to enhance cyber-threat detection, direction : Annalisa Appice, University of Bari ”Aldo Moro”, rapporteure, 2024.
+* Yolene Berrou, Nœuds socio-énergétiques et complexes simpliciaux orientés données pour l’exploration de communautés d’énergies, direction : Eddie Soulier et Babiga Birregah, Université de Technologie de Troyes, rapporteure, 2023.
 * Yuyao Chen, Contribution of machine learning to the prediction of building energy consumption, direction : Frédéric KUZNIK et Christian OBRECHT, INSA Lyon, présidente de jury, 2023.
 * Alice Martin, Prédiction des parcours sous l’angle médico-économique : une approche basée sur l’intelligence artificielle, direction : Alain Guinet et Julien Fondrevelle, INSA Lyon, examinatrice, 2023.
-* Elena Battaglia, On fast, parameter-less and private co-clustering of n-way data, Università degli Studi di Torino, examinatrice, 2022.
-* Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes, rapporteure, 2022.
-* Dario Lucente, Predicting probabilities of climate extremes from observations and dynamics, ENS Lyon, examinatrice, 2021.
-* Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university Belgium, rapporteure, 2021.
+* Elena Battaglia, On fast, parameter-less and private co-clustering of n-way data, Università degli Studi di Torino, direction : Ruggero Pensa, examinatrice, 2022.
+* Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes, direction :  Éric Gaussier, rapporteure, 2022.
+* Dario Lucente, Predicting probabilities of climate extremes from observations and dynamics, direction : Freddy Bouchet, ENS Lyon, examinatrice, 2021.
+* Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university Belgium, direction Tijl De Bie, rapporteure, 2021.
 * Alexandre Millot, Exceptional model mining meets multi-objective optimization: application to plant growth recipes in controlled environments, direction : Jean-François Boulicaut et Rémy Cazabet, INSA Lyon, présidente de jury, 2021.
-* Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, rapporteure, 2021.
+* Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, dircetion: Jean-Loup Guillaume et Armelle Prigent, rapporteure, 2021.
 * Yichang Wang, Interpretable time series classification, Université de Rennes, direction : Élisa Fromont et Romain Tavenard, rapporteure, 2021.
 * Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston Berger de Saint-Louis (Sénégal), direction : Arnaud Giacometti et Cheikh Talibouya Diop, rapporteure, 2020.
 * Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide de graphes multipartis, direction : Clémence Magnien et Fabien Tarissan, Sorbonne Université, rapporteure, 2020.
