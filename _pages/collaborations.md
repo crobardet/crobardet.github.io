@@ -53,16 +53,13 @@ redirect_from:
 * Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes, rapporteure, 2022.
 * Dario Lucente, Predicting probabilities of climate extremes from observations and dynamics, ENS Lyon, examinatrice, 2021.
 * Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university Belgium, rapporteure, 2021.
-* Alexandre Millot, Exceptional model mining meets multi-objective optimization: application to plant growth recipes in controlled environments, direction: Jean-François Boulicaut et Rémy Cazabet, INSA Lyon, présidente de jury, 2021.
+* Alexandre Millot, Exceptional model mining meets multi-objective optimization: application to plant growth recipes in controlled environments, direction : Jean-François Boulicaut et Rémy Cazabet, INSA Lyon, présidente de jury, 2021.
 * Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, rapporteure, 2021.
-* Yichang Wang, Interpretable time series classification, université de Rennes, rapporteure, 2021.
-* Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston Berger de Saint-Louis (Sénégal), rapporteure, 2020.
-* Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide de graphes multipartis, Sorbonne Université, rapporteure, 2020.
+* Yichang Wang, Interpretable time series classification, Université de Rennes, direction : Élisa Fromont et Romain Tavenard, rapporteure, 2021.
+* Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston Berger de Saint-Louis (Sénégal), direction : Arnaud Giacometti et Cheikh Talibouya Diop, rapporteure, 2020.
+* Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide de graphes multipartis, direction : Clémence Magnien et Fabien Tarissan, Sorbonne Université, rapporteure, 2020.
 * Jordan Cambe, Understanding the complex dynamics of social systems with diverse formal tools, rapporteure, direction : Pablo Jensen, Ecole Normale Supérieure Lyon, 2019.
-* Alban Siffer, New Statistical Methods for Data Mining Contributions to Anomaly Detection and Unimodality Testing. Direction : Alexandre Termier, Université de Rennes 1, examinatrice, 2019.
-
-
-
+* Alban Siffer, New Statistical Methods for Data Mining Contributions to Anomaly Detection and Unimodality Testing, direction : Alexandre Termier, Université de Rennes 1, examinatrice, 2019.
 * Alsane Sene, Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique, direction : Bernard Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapporteure, 2018. 
 * Rohit Kumar, Temporal graph mining and distributed processing, direction : Alberto Abello et Toon Calders, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles (ULB), rapporteure, 2018. 
 * Baptiste de La Robertie, Modèles d’Autorité et d’Expertise par les Graphes Hétérogènes, direction : Olivier Teste et Yoann Pitarch, Université Toulouse 3 Paul Sabatier, examinatrice, 2017.
