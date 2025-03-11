@@ -47,21 +47,23 @@ redirect_from:
 * Olivier Gauriau, Fouille de règles numériques pour la prédiction de la dynamique des maladies des plantes, Université de Rennes, examinatrice, 2024.
 * Malik Al Essa, leveraging explainable artificial intelligence to enhance cyber-threat detection, University of Bari ”Aldo Moro”, rapporteure, 2024.
 * Yolene Berrou, Nœuds socio-énergétiques et complexes simpliciaux orientés données pour l’exploration de communautés d’énergies, université de Technologie de Troyes, rapporteure, 2023.
+* Yuyao Chen, Contribution of machine learning to the prediction of building energy consumption, direction : Frédéric KUZNIK et Christian OBRECHT, INSA Lyon, présidente de jury, 2023.
 * Alice Martin, Prédiction des parcours sous l’angle médico-économique : une approche basée sur l’intelligence artificielle, direction : Alain Guinet et Julien Fondrevelle, INSA Lyon, examinatrice, 2023.
 * Elena Battaglia, On fast, parameter-less and private co-clustering of n-way data, Università degli Studi di Torino, examinatrice, 2022.
 * Mariia Garkavenko, Valorisation et levée de fonds de start-up, université Grenoble Alpes, rapporteure, 2022.
 * Dario Lucente, Predicting probabilities of climate extremes from observations and dynamics, ENS Lyon, examinatrice, 2021.
 * Junning Deng, Mining Subjectively Interesting Patterns in Rich Data, Ghent university Belgium, rapporteure, 2021.
+* Alexandre Millot, Exceptional model mining meets multi-objective optimization: application to plant growth recipes in controlled environments, direction: Jean-François Boulicaut et Rémy Cazabet, INSA Lyon, présidente de jury, 2021.
 * Lionel Houssou, Analyse et modélisation de trajectoires d’utilisateurs dans des systèmes réels, la Rochelle Université, rapporteure, 2021.
 * Yichang Wang, Interpretable time series classification, université de Rennes, rapporteure, 2021.
 * Lamine Diop, Echantillonnage sous contraintes de motifs structurés, Université Gaston Berger de Saint-Louis (Sénégal), rapporteure, 2020.
 * Remy Poulain, Analyse et modélisation de la diversité des structures relationnelles à l’aide de graphes multipartis, Sorbonne Université, rapporteure, 2020.
 * Jordan Cambe, Understanding the complex dynamics of social systems with diverse formal tools, rapporteure, direction : Pablo Jensen, Ecole Normale Supérieure Lyon, 2019.
 * Alban Siffer, New Statistical Methods for Data Mining Contributions to Anomaly Detection and Unimodality Testing. Direction : Alexandre Termier, Université de Rennes 1, examinatrice, 2019.
-* Alexandre Millot,
 
-* Yuyao Chen.
-* Alsane Sene, Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique,direction : Bernard Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapporteure, 2018. 
+
+
+* Alsane Sene, Modélisation et structuration des connaissances dans les processus de télémédecine dédiés aéronautique, direction : Bernard Kamsu-Foguem et Pierre Rumeau, Université de Pau, rapporteure, 2018. 
 * Rohit Kumar, Temporal graph mining and distributed processing, direction : Alberto Abello et Toon Calders, Universitat Politècnica de Catalunya (UPC) et Université Libre de Bruxelles (ULB), rapporteure, 2018. 
 * Baptiste de La Robertie, Modèles d’Autorité et d’Expertise par les Graphes Hétérogènes, direction : Olivier Teste et Yoann Pitarch, Université Toulouse 3 Paul Sabatier, examinatrice, 2017.
 * Vijay Ingalalli, Querying and mining multigraphs, direction : Pascal Poncelet et Dino Ienco, Université de Montpellier, rapporteure, 2017.
