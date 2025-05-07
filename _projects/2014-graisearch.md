@@ -8,7 +8,7 @@ date: 2014-09-01
 location: "City, Country"
 ---
 
-<p>Integration of AI capabilities into a social media platform for real-time identification of ego-localized events./p>
+<p>Integration of AI capabilities into a social media platform for real-time identification of ego-localized events.</p>
     
     <p>The primary goal of the <a href="https://cordis.europa.eu/project/id/612334/reporting/">GRAISearch</a> project (Use of Graphics Rendering and Artificial Intelligence for Improved Mobile Search Capabilities) was to develop and integrate revolutionary graphics rendering and artificial intelligence (AI) methods into an existing social media search engine platform, creating groundbreaking mobile search capabilities with significant online commercial potential. The project leveraged pioneering technologies developed at two academic institutions -- INSA Lyon (LIRIS UMR CNRS 5205) and Trinity College Dublin (TCD) -- in collaboration with the industry partner Tapastreet. The aim was to commercialize innovative functionalities that enhance social media search capabilities, positioning Tapastreet as a leader in this domain.</p>
 
