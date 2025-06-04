@@ -27,9 +27,12 @@ Recent news
 <li> Invited talk at 
 <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>, 10th of March 2025.</li>
 <li> Co-Organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
-<li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
+  <li> Transparent Explainable Logic Layers. ECAI 2024, Alessio Ragno, Marc Plantevit, Céline Robardet, Roberto Capobianco</li>
+  <li> A Simple Yet Effective Interpretable Bayesian Personalized Ranking for Cognitive Diagnosis. ECAI 2024. Arthur Batel, Idir Benouaret, Joan Fruitet, Marc Plantevit, Céline Robardet</li>
+  <li> DiffVersify: a Scalable Approach to Differentiable Pattern Mining with Coverage Regularization. ECML/PKDD. Thibaut Chataing, Julien Perez, Marc Plantevit, Céline Robardet</li>
+<!--li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
 <li> Lecturer at University of Bari, June 2022.</li>
-<!--li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
+<li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
 <li> Lecturer at EMLyon Business School, January 2019.</li>
 <li> Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
 <li> Lecturer at <a href="https://project.inria.fr/netspringlyon/3-workshops-on-network-sciences/workshop-on-processes-on-and-of-networks/">Data Driven Approach to Networks and Language workshop</a>, June 2016.</li>
