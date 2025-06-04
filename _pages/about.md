@@ -10,7 +10,7 @@ redirect_from:
 
 I am professor at LIRIS lab where a I lead the research group on <a href="https://projet.liris.cnrs.fr/dm2l/">Data Mining and Machine Learning</a>. I design exploratory data analysis methods by hybridizing numerical machine learning and symbolic reasoning techniques. Numerical machine learning methods excel at learning complex, noise-resistant models but are often opaque, intricate, and difficult to validate. In contrast, symbolic methods provide interpretable justifications for their results and are easier to explain, but they tend to be sensitive to noise and lack scalability. By integrating symbolic reasoning with neural networks, my work seeks to combine the strengths of both approaches while mitigating their respective limitations.
 
-My research journey began with the development of pattern enumeration algorithms for constrained data mining. It subsequently expanded to the analysis of static and dynamic graphs. More recently, I have focused on hybridizing pattern mining with statistical machine learning methods. This includes constraining models to better leverage richer data and enhancing their interpretability.
+<! My research journey began with the development of pattern enumeration algorithms for constrained data mining. It subsequently expanded to the analysis of static and dynamic graphs. More recently, I have focused on hybridizing pattern mining with statistical machine learning methods. This includes constraining models to better leverage richer data and enhancing their interpretability.-->
 
 <img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=500>
 
@@ -19,21 +19,22 @@ My research journey began with the development of pattern enumeration algorithms
 <img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500>
 
 
-Organisation & Invited Talks
+Recent news
 ======
 
 <ul>
-  <li> Invited talk at 
+<li> Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
+<li> Invited talk at 
 <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>, 10th of March 2025.</li>
-<li> Co-Organiser of the MaDICS workshop EXMIA, 2025.</li>
+<li> Co-Organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/>EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
 <li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
 <li> Lecturer at University of Bari, June 2022.</li>
-<li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
-<li>Lecturer at EMLyon Business School, January 2019.</li>
-<li>Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
-  <li> Lecturer at <a href="https://project.inria.fr/netspringlyon/3-workshops-on-network-sciences/workshop-on-processes-on-and-of-networks/">Data Driven Approach to Networks and Language workshop</a>, June 2016.</li>
+<!--li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
+<li> Lecturer at EMLyon Business School, January 2019.</li>
+<li> Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
+<li> Lecturer at <a href="https://project.inria.fr/netspringlyon/3-workshops-on-network-sciences/workshop-on-processes-on-and-of-networks/">Data Driven Approach to Networks and Language workshop</a>, June 2016.</li>
 <li>Tutorials chair for ECMLPKDD 2014, Nancy France.</li>
-<li> Lecturer at the <a href="https://sfb876.tu-dortmund.de/SummerSchool2014/program.html">International Summer School Resource-aware Machine Learning</a> at Technische Universität Dortmund, Germany, September 2014</li>
+<li> Lecturer at the <a href="https://sfb876.tu-dortmund.de/SummerSchool2014/program.html">International Summer School Resource-aware Machine Learning</a> at Technische Universität Dortmund, Germany, September 2014</li-->
  <li> Program Co-Chair for IDA 2009, Lyon France.</li> 
 </ul>
 
@@ -67,7 +68,7 @@ Advising
 =====
 
 **Postdoctoral Researchers**
-
+* Adrien Mialland (2025-2027), fundit project
 * Alessio Ragno (2024--), PEPR WAIT4
 * Anes Bendimerad (2019--2020), IDEX Lyon Academics
 * Adriana Prado (2011--2012), ANR BINGO2.
