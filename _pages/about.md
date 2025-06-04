@@ -29,9 +29,9 @@ Recent news
 <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (28/05/2025) Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
 <li> <img src="https://crobardet.github.io/files/conference.png" width="30px"> (27/05/2025) Co-organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse.</li>
 <li style="list-style-type:none;"> <img src="https://crobardet.github.io/files/annonce.png" width="30px"> (10/03/2025) Invited talk at <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>.</li>
-<li> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (20/10/2024) Transparent Explainable Logic Layers. ECAI 2024, Alessio Ragno, Marc Plantevit, Céline Robardet, Roberto Capobianco</li>
-<li> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (20/10/2024) A Simple Yet Effective Interpretable Bayesian Personalized Ranking for Cognitive Diagnosis. ECAI 2024. Arthur Batel, Idir Benouaret, Joan Fruitet, Marc Plantevit, Céline Robardet</li>
-<li> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (11/09/2024) DiffVersify: a Scalable Approach to Differentiable Pattern Mining with Coverage Regularization. ECML/PKDD. Thibaut Chataing, Julien Perez, Marc Plantevit, Céline Robardet</li>
+<li> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (20/10/2024) Transparent Explainable Logic Layers. ECAI 2024, Alessio Ragno, Marc Plantevit, Céline Robardet, Roberto Capobianco.</li>
+<li> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (20/10/2024) A Simple Yet Effective Interpretable Bayesian Personalized Ranking for Cognitive Diagnosis. ECAI 2024. Arthur Batel, Idir Benouaret, Joan Fruitet, Marc Plantevit, Céline Robardet.</li>
+<li> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (11/09/2024) DiffVersify: a Scalable Approach to Differentiable Pattern Mining with Coverage Regularization. ECML/PKDD. Thibaut Chataing, Julien Perez, Marc Plantevit, Céline Robardet.</li>
 <!--li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
 <li> Lecturer at University of Bari, June 2022.</li>
 <li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
@@ -100,4 +100,4 @@ Advising
 * Ronan Hamon (2012--2015). Title: Analysis of temporal networks by signal processing methods: application to the self-service bicycle system in Lyon. Co-supervised with Patrick Flandrin and Pierre Borgnat. Funding: regional scholarship. <b>Thesis award from Abertis chair 2016.</b>
 * Ruggero Pensa (2003--2006). Title: Co-clustering under constraints. Co-supervised with Jean-François Boulicaut. Funding: ministerial scholarship.
     
-
+<a href="https://www.flaticon.com/fr/icones-gratuites/etude" title="étude icônes">Étude icônes créées par Freepik - Flaticon</a>
