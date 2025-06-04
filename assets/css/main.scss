@@ -39,4 +39,7 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-table {border: none;}
+
+.noBorder {
+    border:none !important;
+}
