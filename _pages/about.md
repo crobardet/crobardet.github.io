@@ -26,7 +26,7 @@ Recent news
 <li> Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
 <li> Invited talk at 
 <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>, 10th of March 2025.</li>
-<li> Co-Organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/>EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
+<li> Co-Organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
 <li> Lecturer at <a href="https://ia2.gdria.fr/ia2-2022/">Autumn Institute in Artificial Intelligence (IA2)</a>, GDR IA, october 2022.</li>
 <li> Lecturer at University of Bari, June 2022.</li>
 <!--li> Program Co-Chair of <a href="https://ecmlpkdd.org/2019/">ECMLPKDD 2019</a>, Würzburg, Germany.</li>
