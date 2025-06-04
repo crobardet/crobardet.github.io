@@ -14,7 +14,7 @@ I am professor at LIRIS lab where a I lead the research group on <a href="https:
 
 <!--img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=500-->
 <table border: none>
-        <tr>
+        <tr border-bottom: none>
             <td><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500></td>
 <td><img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500></td>
         </tr></table>
