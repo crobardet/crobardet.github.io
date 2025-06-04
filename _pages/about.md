@@ -10,7 +10,7 @@ redirect_from:
 
 I am professor at LIRIS lab where a I lead the research group on <a href="https://projet.liris.cnrs.fr/dm2l/">Data Mining and Machine Learning</a>. I design exploratory data analysis methods by hybridizing numerical machine learning and symbolic reasoning techniques. Numerical machine learning methods excel at learning complex, noise-resistant models but are often opaque, intricate, and difficult to validate. In contrast, symbolic methods provide interpretable justifications for their results and are easier to explain, but they tend to be sensitive to noise and lack scalability. By integrating symbolic reasoning with neural networks, my work seeks to combine the strengths of both approaches while mitigating their respective limitations.
 
-<! My research journey began with the development of pattern enumeration algorithms for constrained data mining. It subsequently expanded to the analysis of static and dynamic graphs. More recently, I have focused on hybridizing pattern mining with statistical machine learning methods. This includes constraining models to better leverage richer data and enhancing their interpretability.-->
+<!-- My research journey began with the development of pattern enumeration algorithms for constrained data mining. It subsequently expanded to the analysis of static and dynamic graphs. More recently, I have focused on hybridizing pattern mining with statistical machine learning methods. This includes constraining models to better leverage richer data and enhancing their interpretability.-->
 
 <img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=500>
 
