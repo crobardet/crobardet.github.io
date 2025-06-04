@@ -24,7 +24,7 @@ I am professor at LIRIS lab where a I lead the research group on <a href="https:
 Recent news
 ======
 
-<ul  style="list-style: none;">
+<ul  class="list-unstyled">
 <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
 <li style="list-style-type:none;"> <img src="https://crobardet.github.io/files/annonce.png" width="30px"> Invited talk at <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>, 10th of March 2025.</li>
 <li> <img src="https://crobardet.github.io/files/conference.png" width="30px"> Co-organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
