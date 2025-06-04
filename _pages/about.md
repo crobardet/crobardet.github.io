@@ -34,8 +34,8 @@ Recent news
 <li> Journal Track Chair for ECMLPKDD 2016, Riva del Garda, Italy.</li>
 <li> Lecturer at <a href="https://project.inria.fr/netspringlyon/3-workshops-on-network-sciences/workshop-on-processes-on-and-of-networks/">Data Driven Approach to Networks and Language workshop</a>, June 2016.</li>
 <li>Tutorials chair for ECMLPKDD 2014, Nancy France.</li>
-<li> Lecturer at the <a href="https://sfb876.tu-dortmund.de/SummerSchool2014/program.html">International Summer School Resource-aware Machine Learning</a> at Technische Universität Dortmund, Germany, September 2014</li-->
- <li> Program Co-Chair for IDA 2009, Lyon France.</li> 
+<li> Lecturer at the <a href="https://sfb876.tu-dortmund.de/SummerSchool2014/program.html">International Summer School Resource-aware Machine Learning</a> at Technische Universität Dortmund, Germany, September 2014</li>
+ <li> Program Co-Chair for IDA 2009, Lyon France.</li--> 
 </ul>
 
 
