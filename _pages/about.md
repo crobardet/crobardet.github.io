@@ -13,7 +13,7 @@ I am professor at LIRIS lab where a I lead the research group on <a href="https:
 <!-- My research journey began with the development of pattern enumeration algorithms for constrained data mining. It subsequently expanded to the analysis of static and dynamic graphs. More recently, I have focused on hybridizing pattern mining with statistical machine learning methods. This includes constraining models to better leverage richer data and enhancing their interpretability.-->
 
 <!--img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=500-->
-<table border: none>
+<table border:0px solid black;>
         <tr border-bottom: none>
             <td><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500></td>
 <td><img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500></td>
