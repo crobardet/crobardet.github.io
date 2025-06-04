@@ -15,16 +15,17 @@ I am professor at LIRIS lab where a I lead the research group on <a href="https:
 <!--img src="https://crobardet.github.io/files/ijcai.png" alt="IJCAI 2022." width=500-->
 <table>
         <tr>
-            <td><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500></td>td>
+            <td><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500></td>
 <td><img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500></td>
         </tr></table>
 
-
+<spam display:inline-block><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500></spam>
+<spam display:inline-block><img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500></spam>
 Recent news
 ======
 
 <ul>
-<li> {{{< ai jstor >}}} Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
+<li> [{{< ai jstor >}}] Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
 <li> Invited talk at 
 <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>, 10th of March 2025.</li>
 <li> Co-Organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
