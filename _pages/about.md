@@ -19,7 +19,7 @@ I am professor at LIRIS lab where a I lead the research group on <a href="https:
 <td><img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500></td>
         </tr></table>
 
-<spam display:inline-block><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500>
+<spam display:inline-block align=top><img src="https://crobardet.github.io/files/diffversify.png" alt="ECMLPKDD 24." width=500>
 <img src="https://crobardet.github.io/images/TLL.png" alt="ECAI 24." width=500></spam>
 Recent news
 ======
