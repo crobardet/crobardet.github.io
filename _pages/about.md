@@ -25,7 +25,7 @@ Recent news
 ======
 
 <ul>
-<li> [{{< ai jstor >}}] Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
+<li> <img "https://crobardet.github.io/files/paper.png" width="30px"> Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
 <li> Invited talk at 
 <a href="https://www.ls2n.fr/"> Laboratoire des sciences du numérique de Nantes</a>, entitled <it>Explaining Graph Neural Networks</it>, 10th of March 2025.</li>
 <li> Co-Organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse, 2025.</li>
