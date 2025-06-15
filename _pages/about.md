@@ -46,7 +46,7 @@ Recent news
 
 Grants
 ======
-* PI of PORTRAIT ANR project (INSA Lyon, Humans Matter) (2022-2026).
+* Coordinator of PORTRAIT ANR project (INSA Lyon, Humans Matter) (2022-2026).
 * PI of Wait4, PEPR project (INRAE, INRIA, CEA, INSA, AgroParisTech) (2022–2027).
 * PI of Academics Scientific breakthrough of IDEX Lyon project (ENS Lyon, INSA Lyon, Université Jean Monnet) (2018-2021).
 * PI of GRAISearch FP7 Marie Curie IAPP European project (Trinity College, INSA Lyon, Tapastreet) (2014-2018).
