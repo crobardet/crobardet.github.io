@@ -25,6 +25,8 @@ Recent news
 ======
 
 <ul  class="list-unstyled">
+   <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (5/08/2025) Accepted paper at DSAA 2025, "Diffusion for Explainable Unsupervised Anomaly Detection", Elouan Vincent, Alexandre Dréan, julien perez, Marc Plantevit, Céline Robardet. </li>
+  <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (5/08/2025) Accepted paper at DSAA 2025, "Explainability of Molecular Graph Neural Network", Ataollah Kamal, Matej Hladiš, Jérémie Topin, Marc Plantevit, Sebastien Fiorucci, Céline Robardet. </li>
 <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/phd.png" width="30px"> (3/06/2025) I attended <a href="https://ykrmm.github.io/">Yannis Karmim's</a> thesis defense and he did a remarkable job. </li>
 <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (28/05/2025) Accepted paper at ECML PKDD 2025, "Faithful Explanations for Graph Classification using Logic", Alessio Ragno, Marc Plantevit, Céline Robardet. </li>
 <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/conference.png" width="30px"> (27/05/2025) Co-organiser of the MaDICS workshop <a href="https://www.madics.fr/ateliers/exmia/">EXMIA</a>, Symposium MaDICS, Toulouse.</li>
@@ -74,7 +76,7 @@ Advising
 
 **Postdoctoral Researchers**
 * Adrien Mialland (2025-2027), fundit project
-* Alessio Ragno (2024--), PEPR WAIT4
+* Alessio Ragno (2025--), PEPR WAIT4
 * Anes Bendimerad (2019--2020), IDEX Lyon Academics
 * Adriana Prado (2011--2012), ANR BINGO2.
   
