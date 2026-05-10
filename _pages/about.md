@@ -26,11 +26,12 @@ Recent news
 
 <ul  class="list-unstyled">
   <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/nouveau.png" width="30px">  (6/05/2026) <a href="https://ptl-colors-pole-mips.umontpellier.fr/2025/12/11/ecole-thematique-coreai-2026/"> Séminaire pour l'École Thématique Core AI 2026 à Montpellier </a></li>
+   <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/phd.png" width="30px"> (30/01/2026) Examinatrice HDR de Maxime Devanne, "Contributions à l’analyse de séries temporelles de mouvements humains", université de Haute-Alsace, 2026.</li>
     <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (5/01/2026) Accepted paper:  Arthur Batel, Marc Plantevit, Idir Benouaret, Céline Robardet:
 An Interpretable Model for Multi-target Predictions with Ordinal Outputs. Mach. Learn. 115(4): 76 (2026)</li>
    <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/nouveau.png" width="30px">  (18/09/25) Accepted paper at Neurips 2025, "On Logic-based Self-Explainable Graph Neural Networks",
 Alessio Ragno, Marc Plantevit, Céline Robardet.</li>
-  <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/phd.png" width="30px"> (30/01/2026) Examinatrice HDR de Maxime Devanne, "Contributions à l’analyse de séries temporelles de mouvements humains", université de Haute-Alsace, 2026.</li>
+ 
   <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/phd.png" width="30px"> (2/09/2025) Présidente du jury de thèse de Lucas Potin "Complex Graph Analysis for the Detection of Corruption in Public Procurement", Avignon université, direction Vincent Labatut etChristine Largeron.
    <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (5/08/2025) Accepted paper at DSAA 2025, "Diffusion for Explainable Unsupervised Anomaly Detection", Elouan Vincent, Alexandre Dréan, julien perez, Marc Plantevit, Céline Robardet. </li>
   <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (5/08/2025) Accepted paper at DSAA 2025, "Explainability of Molecular Graph Neural Network", Ataollah Kamal, Matej Hladiš, Jérémie Topin, Marc Plantevit, Sebastien Fiorucci, Céline Robardet. </li>
