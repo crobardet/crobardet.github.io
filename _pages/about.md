@@ -25,6 +25,7 @@ Recent news
 ======
 
 <ul  class="list-unstyled">
+  <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/nouveau.png" width="30px">  (6/05/26) <a src="https://ptl-colors-pole-mips.umontpellier.fr/2025/12/11/ecole-thematique-coreai-2026/" Séminaire pour l'École Thématique Core AI 2026 à Montpellier </a>
    <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/nouveau.png" width="30px">  (18/09/25) Accepted paper at Neurips 2025, "On Logic-based Self-Explainable Graph Neural Networks",
 Alessio Ragno, Marc Plantevit, Céline Robardet.</li>
    <li style="list-style-type: none;"> <img src="https://crobardet.github.io/files/paper.png" width="30px"> (5/08/2025) Accepted paper at DSAA 2025, "Diffusion for Explainable Unsupervised Anomaly Detection", Elouan Vincent, Alexandre Dréan, julien perez, Marc Plantevit, Céline Robardet. </li>
